@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professor Kenton&#39;s Misspelled Words</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 May 2019 23:10:19 -0400</pubDate>
+    <lastBuildDate>Wed, 29 May 2019 23:10:19 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 29 May 2019 22:35:53 -0400</pubDate>
+        <link>/jekyll/update/2019/05/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/jekyll/update/2019/05/29/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Summer Session Begins May 28</title>
+        <description>&lt;p&gt;I’m teaching an instructional design class this summer. Also very busy finishing up some work from the Spring and Fall of last year (specifically, the online version of ISTC 663-Applied Psychology of Learning).&lt;/p&gt;
+
+&lt;p&gt;I’m also putting in my promotion binder to become a “full” professor. And the AR binders are due in a couple weeks. And and and…&lt;/p&gt;
+
+&lt;p&gt;It’s better to be busy than to be bored!&lt;/p&gt;
+
+&lt;p&gt;OFF!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 May 2019 00:00:00 -0400</pubDate>
+        <link>/2019/05/28/summer-session.html</link>
+        <guid isPermaLink="true">/2019/05/28/summer-session.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Happy Memorial Day</title>
+        <description>&lt;div class=&quot;blurb&quot;&gt;
+&lt;p&gt;It does seem juxtapositional to wish someone a &quot;Happy Memorial Day&quot;, given the reason for the holiday.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, Memorial Day has become an informal marker to begin Summer, and is a reason for people to appreciate the sacrifices of others. I&#39;m all in favor of expressing gratitude, and I believe gratitude is good.&lt;/p&gt;
+
+&lt;p&gt;I enjoy the feeling that Summer brings: People start to relax. There are fewer expectations on each other. There are vacations. There is swimming. People go outside willingly. All of those restorative things are also good.&lt;/p&gt;
+
+&lt;p&gt;Now, the reason we begin those things around the end of May is probably a little bit political. And the &quot;start of Summer&quot; jump-starts the season by about a month. (the &quot;end of summer&quot; also short-changes the season by about a month... so I guess there&#39;s equilibrium?) But, the Holiday is there to remind folks that there was a price to pay, and it was paid. The positive things that have accrued to us deserve to be acknowledged.&lt;/p&gt;
+
+&lt;p&gt;So, maybe the &quot;Happy&quot; part is acknowledging that I can have these happy things because of the suffering and loss of others. Not really saying that the day is happy. Just that the Day is a periodic reminder that the sacrifice has not been in vain. We are Happy (and Thank You!)!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 27 May 2019 00:00:00 -0400</pubDate>
+        <link>/2019/05/27/Happy-Memorial-Day.html</link>
+        <guid isPermaLink="true">/2019/05/27/Happy-Memorial-Day.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Procrastination pays off right now</title>
+        <description>&lt;p&gt;You know what they say about hard work paying off &lt;em&gt;eventually&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;Well, procrastination pays off &lt;em&gt;right now&lt;/em&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 May 2019 00:00:00 -0400</pubDate>
+        <link>/2019/05/21/procrastination-pays-off.html</link>
+        <guid isPermaLink="true">/2019/05/21/procrastination-pays-off.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Jeff Kenton Launches Professor Kenton</title>
+        <description>&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Apr 2019 00:00:00 -0400</pubDate>
+        <link>/2019/04/21/profkenton-site-launched.html</link>
+        <guid isPermaLink="true">/2019/04/21/profkenton-site-launched.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mimicry has led only to Gimmickry</title>
+        <description>&lt;p&gt;Just the shortest of backgrounds before I get started: I have an MS and PhD in Education, with a specialization in Curriculum and Instructional Technology for both. I have done professional tech support off and on for more than 20 years. I have been a Professor in a College of Education - teaching classes in all manner of topics related to instructional technology, assessment, accreditation, teacher preparation, and learning theories - for more than 16 years.&lt;/p&gt;
+
+&lt;p&gt;Now, the rant:&lt;/p&gt;
+
+&lt;p&gt;My life as a student closely followed the introduction of computers into the classroom. There were days when the computer was rolled on its own cart into the classroom, waiting eagerly to be used by the first kid who finished his normal homework. As I finished my high school and entered college, the “Computer Lab” was a sacred space. A space protected by people who wanted desperately to protect the devices from people who were there for any reason other than “serious work”. Despite this, there were still games.&lt;/p&gt;
+
+&lt;p&gt;Then I went to grad school, and computers started coming down off their pillar as objects of awe and wonder, and started seeing &lt;em&gt;practical&lt;/em&gt; uses. A computer could help you learn your math facts, or guide you on a fantastic around-the-world adventure, or immerse you in a simulation. Soon, it became obvious - at least to me - that gaming computers had way more processing power than the units available to classrooms. Why couldn’t a PlayStation 2 host an immersive simulation of some complex topic? The PS2 had driving games, and flight simulators, and all manner of first person games that offered rough approximations of these times of learning events.&lt;/p&gt;
+
+&lt;p&gt;When I finished my PhD, I was ready to take on the world, man. I knew how to design immersive simulations, and all I needed was a programmer to develop one. I even got involved with a couple grant proposals, where the user was supposed to learn about why certain types of molecules are hard (or impossible) to make, because the “size” of the atoms can get in the way of them making strong bonds. There was even a “proof-of-concept” activity created, showing how the size and vibration of a molecule can prevent certain sized other atoms from making bonds (despite the theoretic possibility). That idea got dashed because the proposal pointed to a location on a host’s website that got restructured without forwarding the requests to the new location (short: things got screwed up). To say I was disappointed would be understating it substantially.&lt;/p&gt;
+
+&lt;p&gt;I was a professor by then. I was ready and prepared to do all kinds of amazing work in the field, with an initial aim toward helping people learn science more effectively and efficiently. Despite my interest, I couldn’t get on the same page with the science education folks to make anything really cool. And then service came calling. I became a program director. I became the assistant dean. I coordinated a very successful accreditation visit. I returned to faculty a couple years ago.&lt;/p&gt;
+
+&lt;p&gt;So, in that span of 16 years or so, things have gotten way better, right? Technology is used in valuable ways to help people learn more effectively and efficiently, right? I taught the early MS program course that introduces the fundamentals of the field. The students in that class knew how to use their devices very well, and knew how to incorporate certain kinds of activities into their teaching. But, when asked to pay attention to the value that technology brings, or to conceive how technology helps learners to learn better, or faster, their examples were all anecdotal. “My kids love Classroom Dojo…” or “We use a lot of Padlet to get students to participate…” or “I use Kahoot to test whether students understand…”, etc., etc., etc.&lt;/p&gt;
+
+&lt;p&gt;The problem is that these uses are no better than well-structured classroom discussions, worksheets, or tutorials. Where are the examples of students using available materials to create something amazing? Or who use technology to go beyond what is provided in terms of evidence of understanding? Where is the sandboxing, or prototyping, or “goofing around” in a way that helps a student to truly build understanding? Instead, it seems like these students are merely finding the most efficient way to learn the stuff on the exit ticket, without putting themselves at risk of actually understanding anything better than they did before.&lt;/p&gt;
+
+&lt;p&gt;And in this sense, it is a waste to use expensive technology to do nothing better than fill out worksheets and select the best available answer for the provided question. Whereas, this worksheet and multiple choice method was not much better than rote memorization, the ability to manipulate personal devices for no material learning gain is no better than a complex gimmick. Like, the machine that goes “bing” from Monty Python, that fascinated the hospital administrator so much in that sketch from “The Meaning of Life”.&lt;/p&gt;
+
+&lt;p&gt;To this point, I’ve been engaging in what I would call a “heavy dose of complaining”. Or, expressing dissatisfaction without offering any useful options for improvement. Let’s now talk in bullet list terms about what could be better:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Teachers need to be trained better in the use of technology to teach for ALL students. This is the role of teacher education programs.&lt;/li&gt;
+	&lt;li&gt;There must be better software created to allow the wide variety of impressive technologies to support learning, rather than merely entertaining.&lt;/li&gt;
+	&lt;li&gt;Students must be taught technology literacy skills from the very first moment possible. Simple exposure is not enough.&lt;/li&gt;
+	&lt;li&gt;With their impressive personal devices, and strong literacy skills, attention can be turned toward self-management of inquiry.&lt;/li&gt;
+	&lt;li&gt;Lastly, I know that nobody truly *needs* technology. But, to have it and use it poorly is a *shame*.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Other rants in this section will talk about these topics, and others will be added as they become necessary!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Aug 2018 00:00:00 -0400</pubDate>
+        <link>/education/thinking/2018/08/10/Mimicry-leads-to-Gimmickry.html</link>
+        <guid isPermaLink="true">/education/thinking/2018/08/10/Mimicry-leads-to-Gimmickry.html</guid>
+        
+        
+        <category>education</category>
+        
+        <category>thinking</category>
+        
+      </item>
+    
+  </channel>
+</rss>
