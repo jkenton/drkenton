@@ -13,6 +13,6 @@ One of the instructors in my prior department was teaching a program called Voki
 
 Bonus material: Here's me orienting the PDS faculty and University Supervisors!
 
-<img class="alignnone size-full wp-image-286" src="https://jkenton.files.wordpress.com/2018/07/jazzhands.jpg" alt="jazzhands" width="3264" height="2448" />
+<img src="https://jkenton.files.wordpress.com/2018/07/jazzhands.jpg" alt="jazzhands" width="400"  />
 
 Jazz Hands!
