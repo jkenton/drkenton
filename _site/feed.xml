@@ -5,35 +5,18 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 May 2019 23:19:23 -0400</pubDate>
-    <lastBuildDate>Wed, 29 May 2019 23:19:23 -0400</lastBuildDate>
+    <pubDate>Thu, 30 May 2019 20:02:05 -0400</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 20:02:05 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+        <title>How soon is now?</title>
+        <description>&lt;p&gt;Is the future now?&lt;/p&gt;
 </description>
-        <pubDate>Wed, 29 May 2019 22:35:53 -0400</pubDate>
-        <link>/jekyll/update/2019/05/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2019/05/29/welcome-to-jekyll.html</guid>
+        <pubDate>Thu, 30 May 2019 00:00:00 -0400</pubDate>
+        <link>/2019/05/30/is-the-future-now.html</link>
+        <guid isPermaLink="true">/2019/05/30/is-the-future-now.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
@@ -135,6 +118,31 @@
         
         
         <category>education</category>
+        
+        <category>thinking</category>
+        
+      </item>
+    
+      <item>
+        <title>Blast from the Past</title>
+        <description>&lt;p&gt;About this time four years ago, I was in a full-blown panic. It pretty much started from when I opened my eyes in the morning, and lastest until I passed out from exhaustion around 20 hours later. Why? Well, I was coordinating the site visit for the NCATE accreditation team, and the site visit was coming up in early November. During the April to June timeframe, we had submitted our Institutional Report, and waited with baited breath as the review team looked at our materials.&lt;/p&gt;
+
+&lt;p&gt;In mid summer we got a preliminary report, which we could use to clarify some misunderstandings before the site time arrived on campus. What a time…&lt;/p&gt;
+
+&lt;p&gt;One of the instructors in my prior department was teaching a program called Voki to her students.  &lt;a href=&quot;http://tinyurl.com/y96522on&quot;&gt;She created the Voki here &lt;/a&gt; to recite the College’s mission. I thought it was pretty cool. As time went on, I thought I had lost access to it. In any event, I found it recently. So, here you go!&lt;/p&gt;
+
+&lt;p&gt;Bonus material: Here’s me orienting the PDS faculty and University Supervisors!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignnone size-full wp-image-286&quot; src=&quot;https://jkenton.files.wordpress.com/2018/07/jazzhands.jpg&quot; alt=&quot;jazzhands&quot; width=&quot;3264&quot; height=&quot;2448&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jazz Hands!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Jul 2018 00:00:00 -0400</pubDate>
+        <link>/nerdery/thinking/2018/07/21/blast-from-past.html</link>
+        <guid isPermaLink="true">/nerdery/thinking/2018/07/21/blast-from-past.html</guid>
+        
+        
+        <category>nerdery</category>
         
         <category>thinking</category>
         
