@@ -4,6 +4,8 @@ title: "Bootcamp week"
 date: "2019-06-06 09:23:38 -0400"
 categories: prof-dev scholarship focus
 ---
+<img src="http://www.thebluediamondgallery.com/handwriting/images/professional-development.jpg" title="Professional Development by Nick Youngson CC BY-SA 3.0 Alpha Stock Images">
+
 
 This week is the one devoted to professional development, focused on scholarship. The College lovingly calls it "Writing Bootcamp", and last year, they added "NVivo Bootcamp".
 
