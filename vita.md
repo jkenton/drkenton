@@ -21,28 +21,28 @@ Thesis: *Preparing for conceptual change in middle school science: Use of a comp
 
 **Administrative EXPERIENCE**
 
-Towson University<br />
-*2013-2016*<br/>
+*Towson University  2013-2016*<br/>
 _**Assistant Dean for College of Education and Associate Professor w/ Tenure**_                                                                                                                                       
 
-*2009-2013*<br />
+*Towson University  2009-2013*<br />
 _**Assistant Dean for College of Education and Assistant Professor w/ Tenure**_
 Coordinated highly successful NCATE/CAEP National Accreditation site visit for University-wide teacher preparation unit (196 full-time professional education faculty; 29 certification and non-certification programs, 2500 undergraduates, 1400 graduates); Jointly wrote Institutional Report plus 650+ electronic exhibits; Directed annual collection of teacher preparation data for use in annual, departmental data-based improvement process and reports; COE Director of Graduate Education; COE Commencement liaison; COE Information Technology liaison; COE liaison for Marketing and Development; chair for University’s subcommittee on graduate program assessment 2010-2012; served on numerous committees related to technology, assessment and education.
 
-*2005-2009*<br />
+*Towson University  2005-2009*<br />
 _**Assistant Professor and Graduate Program Director**_                                                                	
 Directed graduate program with more than 100 active students and two courses of study; advised more than 100 graduate students in their course selections to satisfy program requirements; Graduation clearances; Course Schedules; improvements to required program of study and sequencing of coursework; initiated an annual alumni survey of program effectiveness.
 
 **Teaching EXPERIENCE**
 
-Towson University
-2016- Present     Associate Professor w/ Tenure
+*Towson University  2016- Present*<br/>
+**Associate Professor w/ Tenure**
 
-2002 – 2009   Assistant Professor (Tenure Track)                                                                                                                               		
+*Towson University  2002 – 2009*<br/>
+**Assistant Professor (Tenure Track)**                                                                                                                               		
 Taught courses for undergraduate students, as well as master’s and doctoral students enrolled in the MS and EdD programs in instructional technology; served as doctoral program advisor for two successful dissertations; served on seven EdD committees for successful candidates; chaired many College committees related to classroom technology.
 
-Iowa State University
-Teaching Assistant 1995 – 2002
+*Iowa State University 1995 – 2002*<br/>
+**Teaching Assistant**
 
 Taught undergraduate courses on instructional media, instructional technology and the use of the Internet in the classroom, for students enrolled in the teacher preparation program.
 
