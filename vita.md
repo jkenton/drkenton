@@ -3,10 +3,10 @@ layout: default
 date: 2019-06-07
 title: Dr. Jeff Kenton's CV
 ---
-**Jeffrey M. Kenton**
-Associate Professor
-College of Education
-Department of Educational Technology and Literacy
+**Jeffrey M. Kenton**<br />
+Associate Professor<br />
+College of Education<br />
+Department of Educational Technology and Literacy<br />
 Towson University
 
 **EDUCATION**
@@ -22,15 +22,16 @@ B.A. in Biological Sciences					University of Iowa 	1993
 
 **Administrative EXPERIENCE**
 
-Towson University
-2013-2016
-Assistant Dean for College of Education and Associate Professor w/ Tenure                                                                                                                                       
+Towson University<br />
+*2013-2016*<br/>
+_**Assistant Dean for College of Education and Associate Professor w/ Tenure**_                                                                                                                                       
 
-2009-2013	Assistant Dean for College of Education and Assistant Professor w/ Tenure   
-
+*2009-2013*<br />
+_**Assistant Dean for College of Education and Assistant Professor w/ Tenure**_
 Coordinated highly successful NCATE/CAEP National Accreditation site visit for University-wide teacher preparation unit (196 full-time professional education faculty; 29 certification and non-certification programs, 2500 undergraduates, 1400 graduates); Jointly wrote Institutional Report plus 650+ electronic exhibits; Directed annual collection of teacher preparation data for use in annual, departmental data-based improvement process and reports; COE Director of Graduate Education; COE Commencement liaison; COE Information Technology liaison; COE liaison for Marketing and Development; chair for University’s subcommittee on graduate program assessment 2010-2012; served on numerous committees related to technology, assessment and education.
 
-2005-2009	Assistant Professor and Graduate Program Director                                                                                                                                                                                                                                                                                        	
+*2005-2009*<br />
+_**Assistant Professor and Graduate Program Director**_                                                                	
 Directed graduate program with more than 100 active students and two courses of study; advised more than 100 graduate students in their course selections to satisfy program requirements; Graduation clearances; Course Schedules; improvements to required program of study and sequencing of coursework; initiated an annual alumni survey of program effectiveness.
 
 **Teaching EXPERIENCE**
