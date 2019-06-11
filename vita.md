@@ -11,14 +11,13 @@ Towson University
 
 **EDUCATION**
 
-Ph.D. in Education, Curriculum and Instructional Technology 	Iowa State University	2002
+**Ph.D. in Education, Curriculum and Instructional Technology** 	Iowa State University	2002<br />
 Dissertation: *Metacognition and meteorology: Using reflective thinking strategies to help novice weather forecasters adopt effective weather forecasting strategies*
 
-M.S. in Education, Curriculum and Instructional Technology 	Iowa State University 	1997
-
+**M.S. in Education, Curriculum and Instructional Technology** 	Iowa State University 	1997<br/>
 Thesis: *Preparing for conceptual change in middle school science: Use of a computer simulation to elicit student conceptions about electricity*
 
-B.A. in Biological Sciences					University of Iowa 	1993
+**B.A. in Biological Sciences**					University of Iowa 	1993
 
 **Administrative EXPERIENCE**
 
