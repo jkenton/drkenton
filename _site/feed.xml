@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Professor Kenton&#39;s Misspelled Words</title>
+    <title></title>
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jun 2019 10:04:44 -0400</pubDate>
-    <lastBuildDate>Thu, 06 Jun 2019 10:04:44 -0400</lastBuildDate>
+    <pubDate>Mon, 10 Jun 2019 16:44:23 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2019 16:44:23 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Upcoming Due Dates</title>
+        <description>&lt;p&gt;Now that the semester is over, the end-of-year reports start coming due.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tenure and Promotion binders&lt;/li&gt;
+  &lt;li&gt;Non-instructional productivity&lt;/li&gt;
+  &lt;li&gt;Outside employment reports (this one bewilders me)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 08 Jun 2019 07:37:25 -0400</pubDate>
+        <link>/2019/06/08/upcoming-due-dates.html</link>
+        <guid isPermaLink="true">/2019/06/08/upcoming-due-dates.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Bootcamp week</title>
