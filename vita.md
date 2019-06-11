@@ -3,9 +3,11 @@ layout: default
 date: 2019-06-07
 title: Dr. Jeff Kenton's CV
 ---
-Jeffrey M. Kenton
+**Jeffrey M. Kenton**
 Associate Professor
-College of Education, Department of Educational Technology and Literacy
+College of Education
+Department of Educational Technology and Literacy
+Towson University
 
 **EDUCATION**
 
