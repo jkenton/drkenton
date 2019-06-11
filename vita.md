@@ -7,99 +7,115 @@ Jeffrey M. Kenton
 Associate Professor
 College of Education, Department of Educational Technology and Literacy
 
-EDUCATION
-Ph.D. in Education, Curriculum and Instructional Technology 	Iowa State University	2002	Dissertation: Metacognition and meteorology: Using reflective thinking strategies to help novice weather forecasters adopt effective weather forecasting strategies
+**EDUCATION**
+
+Ph.D. in Education, Curriculum and Instructional Technology 	Iowa State University	2002
+Dissertation: *Metacognition and meteorology: Using reflective thinking strategies to help novice weather forecasters adopt effective weather forecasting strategies*
 
 M.S. in Education, Curriculum and Instructional Technology 	Iowa State University 	1997
-Thesis: Preparing for conceptual change in middle school science: Use of a computer simulation to elicit student conceptions about electricity
+
+Thesis: *Preparing for conceptual change in middle school science: Use of a computer simulation to elicit student conceptions about electricity*
 
 B.A. in Biological Sciences					University of Iowa 	1993
 
-Administrative EXPERIENCE
+**Administrative EXPERIENCE**
+
 Towson University
-2013-2016	Assistant Dean for College of Education and Associate Professor w/ Tenure                                                                                                                                                                                                                     
-2009-2013	Assistant Dean for College of Education and Assistant Professor w/ Tenure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+2013-2016
+Assistant Dean for College of Education and Associate Professor w/ Tenure                                                                                                                                       
+
+2009-2013	Assistant Dean for College of Education and Assistant Professor w/ Tenure   
+
 Coordinated highly successful NCATE/CAEP National Accreditation site visit for University-wide teacher preparation unit (196 full-time professional education faculty; 29 certification and non-certification programs, 2500 undergraduates, 1400 graduates); Jointly wrote Institutional Report plus 650+ electronic exhibits; Directed annual collection of teacher preparation data for use in annual, departmental data-based improvement process and reports; COE Director of Graduate Education; COE Commencement liaison; COE Information Technology liaison; COE liaison for Marketing and Development; chair for University’s subcommittee on graduate program assessment 2010-2012; served on numerous committees related to technology, assessment and education.
 
 2005-2009	Assistant Professor and Graduate Program Director                                                                                                                                                                                                                                                                                        	
 Directed graduate program with more than 100 active students and two courses of study; advised more than 100 graduate students in their course selections to satisfy program requirements; Graduation clearances; Course Schedules; improvements to required program of study and sequencing of coursework; initiated an annual alumni survey of program effectiveness.
 
-Teaching EXPERIENCE
+**Teaching EXPERIENCE**
+
 Towson University
-2016- Present		Associate Professor w/ Tenure
-Assistant Professor (Tenure Track)                                                                                                                               2002 – 2009		Taught courses for undergraduate students, as well as master’s and doctoral students enrolled in the MS and EdD programs in instructional technology; served as doctoral program advisor for two successful dissertations; served on seven EdD committees for successful candidates; chaired many College committees related to classroom technology.
+2016- Present     Associate Professor w/ Tenure
+
+2002 – 2009   Assistant Professor (Tenure Track)                                                                                                                               		
+Taught courses for undergraduate students, as well as master’s and doctoral students enrolled in the MS and EdD programs in instructional technology; served as doctoral program advisor for two successful dissertations; served on seven EdD committees for successful candidates; chaired many College committees related to classroom technology.
 
 Iowa State University
-Teaching Assistant                                                                                                                                                                	      	                                                                                                                                                                                                                1995 – 2002 Taught undergraduate courses on instructional media, instructional technology and the use of the Internet in the classroom, for students enrolled in the teacher preparation program.
+Teaching Assistant 1995 – 2002
 
-BOOKS PUBLISHED
-Blummer, B., Kenton, J. M., & Wiatrowski, M. (2018). Promoting ethnic diversity and multiculturalism in higher education. Hershey PA: IGI Global. https://doi.org/10.4018/978-1-5225-4097-7
+Taught undergraduate courses on instructional media, instructional technology and the use of the Internet in the classroom, for students enrolled in the teacher preparation program.
 
-Blummer, B. & Kenton, J. (2014). Improving student information search: A metacognitive approach. Oxford UK: Chandos Information Professionals Series.
+**BOOKS PUBLISHED**
 
-Book Chapters
-Blummer, B. & Kenton, J. M. (2018). International students and academic libraries: Identifying themes in the literature from 2001 to the present. In B. Blummer, J. M. Kenton, & M. Wiatrowski, Promoting Ethnic Diversity and Multiculturalism in Higher Education (pp. 237–263). Hershey PA: IGI Global. https://doi.org/10.4018/978-1-5225-4097-7.ch013
+Blummer, B., Kenton, J. M., & Wiatrowski, M. (2018). *Promoting ethnic diversity and multiculturalism in higher education.* Hershey PA: IGI Global. https://doi.org/10.4018/978-1-5225-4097-7
 
-Blummer, B. & Kenton, J. M. (2017). Access and accessibility of academic libraries’ electronic resources and services: Identifying themes in the literature from 2000 to the present. In M. E. Scheuermann, Disability and Equity in Higher Education Accessibility (pp. 242–267). Hershey PA: IGI Global. https://doi.org/10.4018/978-1-5225-2665-0.ch011
+Blummer, B. & Kenton, J. (2014). *Improving student information search: A metacognitive approach.* Oxford UK: Chandos Information Professionals Series.
 
-Blummer, B., & Kenton, J. M. (2018). Academic and research libraries’ portals: A literature review from 2003 to the present. In R. K. Bhardwaj, Digitizing the Modern Library and the Transition From Print to Electronic (pp. 29–63). Hershey PA: IGI Global.
+**Book Chapters**
 
-Blummer, B., & Kenton, J. M. (2016). Academic libraries’ mobile initiatives and research from 2010 to the present: Identifying themes in the literature. L. Briz-Ponce, J. A. Juanes-Méndez, & F. J. García-Peñalvo (Eds.), Handbook of Research on Mobile Devices and Applications in Higher Education Settings (pp. 118–139). https://doi.org/10.4018/978-1-5225-0256-2.ch006
+Blummer, B. & Kenton, J. M. (2018). International students and academic libraries: Identifying themes in the literature from 2001 to the present. In B. Blummer, J. M. Kenton, & M. Wiatrowski, *Promoting Ethnic Diversity and Multiculturalism in Higher Education* (pp. 237–263). Hershey PA: IGI Global. https://doi.org/10.4018/978-1-5225-4097-7.ch013
 
- PUBLICATIONS AND PAPERS
-Blummer, B. & Kenton, J. (Under Review). Are teacher education programs providing graduates with 21st Century skills? A literature review from 2003 to 2014. Teacher Education and Practice.
+Blummer, B. & Kenton, J. M. (2017). Access and accessibility of academic libraries’ electronic resources and services: Identifying themes in the literature from 2000 to the present. In M. E. Scheuermann, *Disability and Equity in Higher Education Accessibility* (pp. 242–267). Hershey PA: IGI Global. https://doi.org/10.4018/978-1-5225-2665-0.ch011
 
-Blummer, B., & Kenton, J. M. (2018b). Academic libraries and student learning outcomes. Performance Measurement & Metrics, 19(1), 75–87. https://doi.org/10.1108/PMM-11-2017-0053
+Blummer, B., & Kenton, J. M. (2018). Academic and research libraries’ portals: A literature review from 2003 to the present. In R. K. Bhardwaj, *Digitizing the Modern Library and the Transition From Print to Electronic* (pp. 29–63). Hershey PA: IGI Global.
 
-Blummer, B., & Kenton, J. M. (2017). Learning commons in academic libraries: Discussing themes in the literature from 2001 to the present. New Review of Academic Librarianship, 23(4), 329–352
+Blummer, B., & Kenton, J. M. (2016). Academic libraries’ mobile initiatives and research from 2010 to the present: Identifying themes in the literature. In L. Briz-Ponce, J. A. Juanes-Méndez, & F. J. García-Peñalvo (Eds.), *Handbook of Research on Mobile Devices and Applications in Higher Education Settings* (pp. 118–139). https://doi.org/10.4018/978-1-5225-0256-2.ch006
 
- Blummer, B. & Kenton, J. (2017). Optimizing library services: Academic libraries’ mobile initiatives. Against the Grain, 29(3), p. 59-61.
+ **PUBLICATIONS AND PAPERS**
 
-Blummer, B. & Kenton, J. (2016). Academic libraries’ mobile initiatives and research from 2010 to the present. Identifying themes in the literature. In L. Briz-Ponce, J.A. Juanes-Méndez, & F. J. García-Peñalvo, Francisco José (Eds.), Handbook of Research on Mobile Devices and Applications in Higher Education Settings.
- Blummer, B., & Kenton, J. M. (2015). Academic librarians’ use of Web 2.0 tools and new media to promote students’ information literacy skills. Journal of Education Research, 9(2), 151–175.
+Blummer, B. & Kenton, J. (Under Review). Are teacher education programs providing graduates with 21st Century skills? A literature review from 2003 to 2014. *Teacher Education and Practice.*
 
-Blummer, B., & Kenton, J. M. (2015). Utilizing Web 2.0 technologies for library web tutorials: an examination of instruction on community college libraries’ websites serving large student bodies. Community & Junior College Libraries, 21(3/4), 101–124.  DOI: 10.1080/02763915.2016.1190994
+Blummer, B., & Kenton, J. M. (2018). Academic libraries and student learning outcomes. *Performance Measurement & Metrics, 19*(1), 75–87. https://doi.org/10.1108/PMM-11-2017-0053
 
-Blummer, B. & Kenton, J. (2014). The availability of Web 2.0 tools from community college libraries’ websites serving large student bodies. Community & Junior College Libraries,20 (3-4), 75-104. DOI: 10.1080/02763915.2015.1056703
+Blummer, B., & Kenton, J. M. (2017). Learning commons in academic libraries: Discussing themes in the literature from 2001 to the present. *New Review of Academic Librarianship, 23*(4), 329–352.
 
-Blummer, B. & Kenton, J. (2014). Information fluency initiatives in academic libraries: A literature review.  Journal of Information Fluency(3)1, 3-20.
+ Blummer, B. & Kenton, J. (2017). Optimizing library services: Academic libraries’ mobile initiatives. *Against the Grain, 29*(3), p. 59-61.
 
-Blummer, B. & Kenton, J. (2014). Reducing patron information overload in academic libraries. College & Undergraduate Libraries, 21 (2), 115-135. (Also a Featured Article in the July/August 2014 issue of Informed Librarian Online, http://www.informedlibrarian.com)
+ Blummer, B., & Kenton, J. M. (2015). Academic librarians’ use of Web 2.0 tools and new media to promote students’ information literacy skills. *Journal of Education Research, 9*(2), 151–175.
 
-Blummer, B. & Kenton, J. (2012). Best practices for integrating E-books in academic libraries: A literature review from 2005 to present. Collection Management, 37 (2), 65-97.
+Blummer, B., & Kenton, J. M. (2015). Utilizing Web 2.0 technologies for library web tutorials: an examination of instruction on community college libraries’ websites serving large student bodies. *Community & Junior College Libraries, 21*(3/4), 101–124.  DOI: 10.1080/02763915.2016.1190994
 
-Blummer, B., Lohnes-Watulak, S. & Kenton, J. (2012). The research experience for education graduate students: A phenomenographic study, Internet Reference Services Quarterly, 17 (3-4), 117-146.
+Blummer, B. & Kenton, J. (2014). The availability of Web 2.0 tools from community college libraries’ websites serving large student bodies. *Community & Junior College Libraries,20* (3-4), 75-104. DOI: 10.1080/02763915.2015.1056703
 
-Blummer, B., Kenton, J., Song, L. (2010). The design and assessment of a proposed library training unit for education graduate students. Internet Reference Services Quarterly, 15 (4), 227-242.
+Blummer, B. & Kenton, J. (2014). Information fluency initiatives in academic libraries: A literature review.  *Journal of Information Fluency,3* (1), 3-20.
 
-Kenton, J. & Blummer, B. (2010). Promoting digital literacy skills: Examples from the literature and implications for academic librarians, Community & Junior College Libraries, 16 (2), 84-99.
+Blummer, B. & Kenton, J. (2014). Reducing patron information overload in academic libraries. *College & Undergraduate Libraries, 21* (2), 115-135. <br />
+*(Also a Featured Article in the July/August 2014 issue of Informed Librarian Online, http://www.informedlibrarian.com)*
 
-Laster, B., Blummer, B. & Kenton, J. (2010). Psychosemiotics and libraries: Identifying signways in library informational guides, games, and tutorials. Journal of Library & Information Services in Distance Learning, 4 (3), 106-118.
+Blummer, B. & Kenton, J. (2012). Best practices for integrating E-books in academic libraries: A literature review from 2005 to present. *Collection Management, 37* (2), 65-97.
 
-Song, L. & Kenton, J. (2010). Action research in schools: The practitioners' perspectives. Ontario Action Researcher,10 (3), 1-13. Available: http://oar.nipissingu.ca/PDFS/V1032.pdf
+Blummer, B., Lohnes-Watulak, S. & Kenton, J. (2012). The research experience for education graduate students: A phenomenographic study, *Internet Reference Services Quarterly, 17* (3-4), 117-146.
 
-Blummer, B., Martin, A. & Kenton, J. (2009). A librarian's internship in a campus computing center: Lessons learned and implications for community college libraries. Community & Junior College Libraries, 15 (3), 147 – 158.
+Blummer, B., Kenton, J., Song, L. (2010). The design and assessment of a proposed library training unit for education graduate students. *Internet Reference Services Quarterly, 15* (4), 227-242.
 
-Bauer, J. & Kenton J. (2005). Toward technology integration in the schools: Why it isn’t happening. Journal of Technology and Teacher Education,13 (4), 519-546.
+Kenton, J. & Blummer, B. (2010). Promoting digital literacy skills: Examples from the literature and implications for academic librarians, *Community & Junior College Libraries, 16* (2), 84-99.
 
-Hargrave, C. P., & Kenton, J. M. (2000). Preinstructional simulations: Implications for science classroom teaching. Journal of Computers in Mathematics and Science Teaching, 19(1), 47–58.
+Laster, B., Blummer, B. & Kenton, J. (2010). Psychosemiotics and libraries: Identifying signways in library informational guides, games, and tutorials. *Journal of Library & Information Services in Distance Learning, 4* (3), 106-118.
+
+Song, L. & Kenton, J. (2010). Action research in schools: The practitioners' perspectives. *Ontario Action Researcher,10* (3), 1-13. Available: http://oar.nipissingu.ca/PDFS/V1032.pdf
+
+Blummer, B., Martin, A. & Kenton, J. (2009). A librarian's internship in a campus computing center: Lessons learned and implications for community college libraries. *Community & Junior College Libraries, 15* (3), 147 – 158.
+
+Bauer, J. & Kenton J. (2005). Toward technology integration in the schools: Why it isn’t happening. *Journal of Technology and Teacher Education,13* (4), 519-546.
+
+Hargrave, C. P., & Kenton, J. M. (2000). Preinstructional simulations: Implications for science classroom teaching. *Journal of Computers in Mathematics and Science Teaching, 19*(1), 47–58.
 
 
-PUBLICATIONS in Refereed Conference Proceedings
+**PUBLICATIONS in Refereed Conference Proceedings**
 
-Kenton, J. (2011). Designing a graduate capstone course: Encouraging evidence-based practice in educational technology. In Society for Information Technology & Teacher Education International Conference (pp. 1870–1875). Association for the Advancement of Computing in Education (AACE).
+Kenton, J. (2011). Designing a graduate capstone course: Encouraging evidence-based practice in educational technology. In *Society for Information Technology & Teacher Education International Conference* (pp. 1870–1875). Association for the Advancement of Computing in Education (AACE).
 
-Robertson, J., & Kenton, J. (2010). Microworlds to improve learning in introductory computer programming courses. In Society for Information Technology & Teacher Education International Conference (pp. 3348–3355). Association for the Advancement of Computing in Education (AACE).
+Robertson, J., & Kenton, J. (2010). Microworlds to improve learning in introductory computer programming courses. In *Society for Information Technology & Teacher Education International Conference* (pp. 3348–3355). Association for the Advancement of Computing in Education (AACE).
 
 Kenton, J. (2009). Developing and maintaining a TPACK focus in the preservice, inservice and teacher-preparation classroom (pp. 3782–3788). Presented at the Society for Information Technology & Teacher Education International Conference, Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/primary/p/31243/
 
-Hartzler-Miller, C., Emerick, L., & Kenton, J. (2006). Learning “Repackaged”: Transformations from Direct to Distance Instruction. In Society for Information Technology & Teacher Education International Conference (pp. 375–382). Association for the Advancement of Computing in Education (AACE).
+Hartzler-Miller, C., Emerick, L., & Kenton, J. (2006). Learning “Repackaged”: Transformations from Direct to Distance Instruction. In *Society for Information Technology & Teacher Education International Conference* (pp. 375–382). Association for the Advancement of Computing in Education (AACE).
 
-Kenton, J. (2004). Can Metacognitive Strategies Help Novices Restructure Their Weather Forecast Strategies? In Society for Information Technology & Teacher Education International Conference (pp. 4672–4679). Association for the Advancement of Computing in Education (AACE).
+Kenton, J. (2004). Can Metacognitive Strategies Help Novices Restructure Their Weather Forecast Strategies? In *Society for Information Technology & Teacher Education International Conference* (pp. 4672–4679). Association for the Advancement of Computing in Education (AACE).
 
 
-Conference Presentations
-Kenton, J. (2013). The public side of the unit assessment system: YASU & DAR. In Society for Information Technology & Teacher Education International Conference (pp. 2154–2157). Association for the Advancement of Computing in Education (AACE).
+**Conference Presentations**
+
+Kenton, J. (2013). The public side of the unit assessment system: YASU & DAR. In *Society for Information Technology & Teacher Education International Conference* (pp. 2154–2157). Association for the Advancement of Computing in Education (AACE).
 
 Kenton, J. (2012). The care and feeding of an assessment system: Responding to university, program, state and federal changes in teacher preparation standards. In Society for Information Technology & Teacher Education International Conference (pp. 1880–1884). Association for the Advancement of Computing in Education (AACE).
 
