@@ -5,15 +5,15 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jun 2019 09:58:17 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Jun 2019 09:58:17 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2019 10:01:35 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2019 10:01:35 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Cask of Amontillado?</title>
         <description>&lt;p&gt;Fortunato?&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;img src=”“/images/amontillado.jpg”&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/amontillado.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jun 2019 09:54:05 -0400</pubDate>
         <link>/baltimore/brickwork/2019/06/12/cask-of-amontillado.html</link>

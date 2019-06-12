@@ -7,4 +7,4 @@ categories: baltimore brickwork
 
 Fortunato?
 
-<img src="{{site.baseurl}}"/images/amontillado.jpg">
+<img src="{{site.baseurl}}/images/amontillado.jpg">
