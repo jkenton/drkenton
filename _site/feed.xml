@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jun 2019 10:01:35 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Jun 2019 10:01:35 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2019 10:05:14 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2019 10:05:14 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -14,6 +14,11 @@
         <description>&lt;p&gt;Fortunato?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/amontillado.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To learn more about the short story, written by local boy Edgar Allan Poe, &lt;a href=&quot;https://www.poemuseum.org/the-cask-of-amontillado&quot;&gt; here you go&lt;/a&gt;
+&lt;br /&gt;
+TLDR; version:
+&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Cask_of_Amontillado&quot;&gt; Here you go&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Jun 2019 09:54:05 -0400</pubDate>
         <link>/baltimore/brickwork/2019/06/12/cask-of-amontillado.html</link>

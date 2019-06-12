@@ -8,3 +8,8 @@ categories: baltimore brickwork
 Fortunato?
 
 <img src="{{site.baseurl}}/images/amontillado.jpg">
+
+To learn more about the short story, written by local boy Edgar Allan Poe, <a href="https://www.poemuseum.org/the-cask-of-amontillado"> here you go</a>
+<br/>
+TLDR; version:
+<a href="https://en.wikipedia.org/wiki/The_Cask_of_Amontillado"> Here you go</a>.
