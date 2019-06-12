@@ -119,33 +119,33 @@ Kenton, J. (2004). Can Metacognitive Strategies Help Novices Restructure Their W
 
 Kenton, J. (2013). The public side of the unit assessment system: YASU & DAR. In *Society for Information Technology & Teacher Education International Conference* (pp. 2154–2157). Association for the Advancement of Computing in Education (AACE).
 
-Kenton, J. (2012). The care and feeding of an assessment system: Responding to university, program, state and federal changes in teacher preparation standards. In Society for Information Technology & Teacher Education International Conference (pp. 1880–1884). Association for the Advancement of Computing in Education (AACE).
+Kenton, J. (2012). The care and feeding of an assessment system: Responding to university, program, state and federal changes in teacher preparation standards. In *Society for Information Technology & Teacher Education International Conference* (pp. 1880–1884). Association for the Advancement of Computing in Education (AACE).
 
-Martin, A. C., Crisp, E., & Kenton, J. (2012). Developing effective professional development spaces, real and virtual, for College of Education faculty. In Society for Information Technology & Teacher Education International Conference (pp. 2253–2257). Association for the Advancement of Computing in Education (AACE).
+Martin, A. C., Crisp, E., & Kenton, J. (2012). Developing effective professional development spaces, real and virtual, for College of Education faculty. In *Society for Information Technology & Teacher Education International Conference* (pp. 2253–2257). Association for the Advancement of Computing in Education (AACE).
 
-Blummer, B. & Kenton, J. (2011). Best practices for integrating e-books in libraries: A literature review from 2005 to the present. Future of the Book Conference, Tallahassee, Florida, July 21-22nd 2011.
+Blummer, B. & Kenton, J. (2011). Best practices for integrating e-books in libraries: A literature review from 2005 to the present. *Future of the Book Conference*, Tallahassee, Florida, July 21-22nd 2011.
 
- Blummer, B. & Kenton, J. (2011). Evaluating the effectiveness of a metacognitive tool: A pilot study. Georgia International Conference on Information Literacy. Savannah, Georgia, September 23-24th 2011.
+ Blummer, B. & Kenton, J. (2011). Evaluating the effectiveness of a metacognitive tool: A pilot study. *Georgia International Conference on Information Literacy*. Savannah, Georgia, September 23-24th 2011.
 
-Kenton, J. M., & Song, L. (2008). Action research practitioner perspectives. In Society for Information Technology & Teacher Education International Conference (pp. 1119–1120). Association for the Advancement of Computing in Education (AACE).
+Kenton, J. M., & Song, L. (2008). Action research practitioner perspectives. In *Society for Information Technology & Teacher Education International Conference* (pp. 1119–1120). Association for the Advancement of Computing in Education (AACE).
 
 Kenton, J. (September, 2008). Evaluating learning and instructional effectiveness (Part I of III). Interactive workshop presented at the Office of Technology Services, Towson University. September 25, 2008.
 
-Martin, A.C. & Kenton, J. (2007). Microsoft PowerPoint as an Interactive Theatre Learning Tool. In T. Bastiaens & S. Carliner (Eds.), Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education 2007 (pp. 1062-1065). Chesapeake, VA: AACE.
+Martin, A.C. & Kenton, J. (2007). Microsoft PowerPoint as an Interactive Theatre Learning Tool. In T. Bastiaens & S. Carliner (Eds.), *Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education 2007* (pp. 1062-1065). Chesapeake, VA: AACE.
 
-Pusey, P., Sadera, W., & Kenton, J. (2007). The technology coordinator: an analysis of the interactions and perceptions that influence effectiveness. In Society for Information Technology & Teacher Education International Conference (pp. 1660–1663). Association for the Advancement of Computing in Education (AACE).
+Pusey, P., Sadera, W., & Kenton, J. (2007). The technology coordinator: an analysis of the interactions and perceptions that influence effectiveness. In *Society for Information Technology & Teacher Education International Conference* (pp. 1660–1663). Association for the Advancement of Computing in Education (AACE).
 
-Sadera, W., Kenton, J., & Pusey, P. (2006). Trends in professional development, technology use, and student achievement: A look into three elementary schools. In Society for Information Technology & Teacher Education International Conference (pp. 1777–1780). Association for the Advancement of Computing in Education (AACE).
+Sadera, W., Kenton, J., & Pusey, P. (2006). Trends in professional development, technology use, and student achievement: A look into three elementary schools. In *Society for Information Technology & Teacher Education International Conference* (pp. 1777–1780). Association for the Advancement of Computing in Education (AACE).
 
-Kenton, J.M. & Sadera,W. (2005). Effective design and implementation of case-based online learning. Paper presented at the Maryland Distance Learning Association Annual Conference, Adelphi, MD.
+Kenton, J.M. & Sadera, W. (2005). Effective design and implementation of case-based online learning. Paper presented at the Maryland Distance Learning Association Annual Conference, Adelphi, MD.
 
-Kenton, J.M., Sadera, W.A. & Frazier, L.C. (2004). Case Studies in Distance Education: Examples of Two Effective Instructional Uses. In J. Nall & R. Robson (Eds.), Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education 2004 (pp. 765-768). Chesapeake, VA: AACE.
+Kenton, J.M., Sadera, W.A. & Frazier, L.C. (2004). Case Studies in Distance Education: Examples of Two Effective Instructional Uses. In J. Nall & R. Robson (Eds.), *Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education 2004* (pp. 765-768). Chesapeake, VA: AACE.
 
 Clausen, J., Kenton, J., & Lindstrom, D. (2003). A model of instructional technology and preservice teacher preparation programs (pp. 1700–1703). Presented at the Society for Information Technology & Teacher Education International Conference, Association for the Advancement of Computing in Education (AACE). Retrieved from https://www.learntechlib.org/primary/p/18261/
 
 Clausen, J., Kenton, J.M., Lindstrom, D.L. (March, 2003). Seminal readings in technology and teacher education: An introductory framework. Paper presented at the 14th International Conference of the Society for Information Technology and Teacher Education, Albuquerque, NM.
 
-Kenton, J. (2003). A web-based chatroom: Swiss army knife for discussion or one-trick pony?. In C. Crawford et al. (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2003 (pp. 2408-2409). Chesapeake, VA: AACE.
+Kenton, J. (2003). A web-based chatroom: Swiss army knife for discussion or one-trick pony?. In C. Crawford et al. (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2003* (pp. 2408-2409). Chesapeake, VA: AACE.
 
 Clausen, J., Kenton, J.M., Lindstrom, D.L. (October, 2002). Seminal readings in technology and teacher education: A framework for articles in the field of technology and teacher education. Graduate Poster Fair, Curriculum and Instruction Department, Iowa State University.
 
@@ -157,36 +157,43 @@ Kenton, J.M. & Hargrave, C.P. (1998). Implications of pre-instructional simulati
 
 Kenton, J.M. & Hargrave, C.P. (1998). Implications of pre-instructional simulations for science teachers and teaching. Poster session presented at the 1998 Annual Meeting of the National Educational Computing Consortium, San Diego, CA.
 
-Kenton, J. M., & Hargrave, C. P. (1998). Preparing for conceptual change: A middle school science electricity simulation. In Society for Information Technology & Teacher Education International Conference (pp. 959–962). Association for the Advancement of Computing in Education (AACE).
+Kenton, J. M., & Hargrave, C. P. (1998). Preparing for conceptual change: A middle school science electricity simulation. In *Society for Information Technology & Teacher Education International Conference* (pp. 959–962). Association for the Advancement of Computing in Education (AACE).
 
 Sadera, W. A., Walker, R., Howard, M. & Kenton, J. M. (1998). Implementing a graduate technology and networking group: The early adopters. Paper presented at the 7th International Conference of the Society for Information Technology and Teacher Education, Washington DC.
 
-Theses
+**Theses**
 
-Kenton, J. (2002). Metacognition and meteorology: using reflective thinking strategies to help novice weather forecasters adopt effective forecasting strategies (Unpublished doctoral dissertation). Iowa State University, Ames, IA.
+Kenton, J. (2002). *Metacognition and meteorology: using reflective thinking strategies to help novice weather forecasters adopt effective forecasting strategies* (Unpublished doctoral dissertation). Iowa State University, Ames, IA.
 
-Kenton, J. M. (1997). Preparing for conceptual change in middle school science: Use of a computer simulation to elicit student conceptions about electricity (Unpublished thesis). Iowa State University, Ames IA.
-Editorial Activities
-Issues and Trends in Educational Technology (ITET) 2012 to Present, Reviewer.
-Journal of Technology and Teacher Education (JTTE) 2002 to Present, Reviewer
-Electronic Journal of Science Education (EJSE) 2002-2005, Reviewer.
+Kenton, J. M. (1997). *Preparing for conceptual change in middle school science: Use of a computer simulation to elicit student conceptions about electricity* (Unpublished thesis). Iowa State University, Ames IA.
 
-Reviewer
-Maddux, C.D. (Ed.). 2009. Research Highlights in Technology and Teacher Education 2009. SITE. Retrieved from http://www.editlib.org/p/31425.
+**Editorial Activities**
+
+*Issues and Trends in Educational Technology* (ITET) 2012 to Present, Reviewer.
+
+*Journal of Technology and Teacher Education* (JTATE) 2002 to Present, Reviewer
+
+*Electronic Journal of Science Education* (EJSE) 2002-2005, Reviewer.
+
+Maddux, C.D. (Ed.). 2009. *Research Highlights in Technology and Teacher Education 2009*. SITE. Retrieved from http://www.editlib.org/p/31425.
 
 
-Textbook Review Panel
-Newby, T.J., Stepich, D., Lehman, J. & Russell, J. D. (2005). Educational Technology for Teaching and Learning (3rd Ed.). Upper Saddle River, NJ: Prentice Hall.
+**Textbook Review Panel**
 
-MEMBERSHIPS
+Newby, T.J., Stepich, D., Lehman, J. & Russell, J. D. (2005). *Educational Technology for Teaching and Learning* (3rd Ed.). Upper Saddle River, NJ: Prentice Hall.
+
+**MEMBERSHIPS**
+
 American Association of Computers in Education
-American Association of Colleges of Teacher Education
+
 American Educational Research Association
+
 American Mensa
 
-AWARDS
+**AWARDS**
+
 Towson University College of Education Excellence in Teacher Education Award 2008-2009
 
-Certifications
+**Certifications**
 
 Google Certified Educator Level II
