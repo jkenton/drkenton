@@ -13,11 +13,11 @@ A list of topics that I want to discuss here. When completed (or at least posted
 * Attention grabber v. inquiry or knowledge building environment
 * Thomas and Boysen taxonomy series
 
-<li> Experiencing
-<li> Informing
-<li> Reinforcing
-<li> Integrating
-<li> Utilizing
+* * Experiencing
+* * Informing
+* * Reinforcing
+* * Integrating
+* * Utilizing
 
 
 
