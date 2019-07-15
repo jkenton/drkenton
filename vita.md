@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2019-06-07
-title: Dr. Jeff Kenton's CV
+title: Curriculum Vitae
 ---
 **Jeffrey M. Kenton**<br />
 Associate Professor<br />
