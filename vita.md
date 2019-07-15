@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2019-06-07
-title: Curriculum Vitae
+title: My CV
 ---
 **Jeffrey M. Kenton**<br />
 Associate Professor<br />
