@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Dire Straits might be the Soundtrack for me
+title: "Dire Straits might be the Soundtrack for me"
 date: 2014-02-27
 categories: motivation
-___
+---
 
 <img src="{{site.baseurl}}/images/direstraits.png">
 
