@@ -3,7 +3,7 @@ title: "Being Gracious"
 date: 2014-08-15
 layout: post
 categories: grad-school, awesome
-published: false
+
 ---
 
 <img src="{{site.baseurl}}/images/the-lama.jpg">
