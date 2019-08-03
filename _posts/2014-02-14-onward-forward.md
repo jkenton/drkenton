@@ -6,7 +6,6 @@ categories: project admin
 ---
 
 
-** Keep marching forward (2-27-2014)
 Need to keep marching. Forward. Forward. Forward.
 
 So much going on. So. Much.
