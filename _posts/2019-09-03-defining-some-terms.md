@@ -13,7 +13,7 @@ The whole point of this blog is to try and identify which types of classroom tec
 
 My impression of classroom technology use is that most either enhances teacher productivity, or entertains the student. Any learning effects from these types of uses are ancillary, or perhaps even accidental.
 
-I'm not entirely cynical. I know that there are effective classroom technology uses. I will highlight those here also. However, there is so much misdirection and doublespeak around the topic of educational technology used in the classroom then it frankly makes my career path look silly.
+I'm not entirely cynical. I know that there are effective classroom technology uses. I will highlight those here also. However, there is so much misdirection and doublespeak around the topic of educational technology used in the classroom that it frankly makes my career path look silly.
 
 So, my intention is to release a daily statement, similar to this one, at least three times a week. I intend to write a slightly longer and more thoughtful peace at least once a week.
 
