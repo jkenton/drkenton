@@ -17,6 +17,6 @@ I'm not entirely cynical. I know that there are effective classroom technology u
 
 So, my intention is to release a daily statement, similar to this one, at least three times a week. I intend to write a slightly longer and more thoughtful peace at least once a week.
 
-If you have a comment or an argument that you'd like to share with me please do so at drjkenton@gmail.com
+If you have a comment or an argument that you'd like to share with me please do so at jkenton@towson.edu
 
 Otherwise let's get this thing started.
