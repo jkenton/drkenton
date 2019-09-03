@@ -2,7 +2,7 @@
 layout: post
 title: "Daily: Defining Some Parameters"
 date: 2019-09-03
-categories: getting-started definitions
+categories: getting-started definitions daily
 ---
 
 # GETTING STARTED
