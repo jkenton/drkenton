@@ -10,7 +10,7 @@ title: "Professor Kenton"
  github_username: jkenton
  future: false
 
-permalin; /:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title:output_ext
 # Build settings
 # theme: minima
 # plugins:
