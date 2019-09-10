@@ -10,7 +10,7 @@ Hey Superstars!
 
 Here is a video to help:
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ZX240Plv7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This week's comments:
 <a href="http://professorkenton.com/frustration/2019/07/27/tech-can-getcha.html">http://professorkenton.com/frustration/2019/07/27/tech-can-getcha.html</a>
