@@ -6,3 +6,5 @@ category: comments
 ---
 
 Hey Superstars!
+
+Here is a video to help:
