@@ -8,7 +8,6 @@ title: "Professor Kenton"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
  twitter_username: drjkenton
  github_username: jkenton
-permalink: :title
  future: false
 
 # Build settings
