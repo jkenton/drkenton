@@ -13,4 +13,4 @@ Premise: Teachers and Students need to be *TAUGHT* how to use technology to teac
 
 Notes:
 
-The machine that goes PING (https://www.youtube.com/watch?v=NcHdF1eHhgc)
+<a href="https://www.youtube.com/watch?v=NcHdF1eHhgc">The machine that goes PING (https://www.youtube.com/watch?v=NcHdF1eHhgc)</a>
