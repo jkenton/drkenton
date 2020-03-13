@@ -1,6 +1,6 @@
 ---
 title: "Coronavirus: Some tips and practices for first-time online instructors"
-date: 2014-08-15
+date: 2020-03-13
 layout: post
 categories: grad-school, awesome
 
