@@ -2,8 +2,6 @@
 title: "Coronavirus: Some tips and practices for first-time online instructors"
 date: 2020-03-13
 layout: post
-categories: grad-school, awesome
-
 ---
 Here are four categories of things you can try as a first-time online instructor, depending on your existing technical expertise.
 
