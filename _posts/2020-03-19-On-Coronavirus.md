@@ -7,7 +7,7 @@ For the reader coming here from the far future, this was written in the early st
 
 Here is an email I sent to my students, completing their seven-week session course in mid March 2020.
 
-*Hey gang!
+Hey gang!
 
 I'm slowly making my way through your projects and papers.
 
@@ -29,6 +29,6 @@ I'm not trying to spread fear, uncertainty, or doubt. Instead, I hope that you a
 
 Please be safe, protect yourselves and your families, and consider your home-place as your 23 hour a day place to be.
 
-It has been an immense pleasure seeing this mixed group of backgrounds and interests (let alone graduate school majors!) gel into a wonderful learning experience! Thank you! Thank you! Thank you! After this is all over, fist bumps all around!*
+It has been an immense pleasure seeing this mixed group of backgrounds and interests (let alone graduate school majors!) gel into a wonderful learning experience! Thank you! Thank you! Thank you! After this is all over, fist bumps all around!
 
 Be safe, reader.
