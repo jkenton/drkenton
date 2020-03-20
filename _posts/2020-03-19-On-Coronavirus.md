@@ -3,9 +3,9 @@ layout: post
 title: On Coronavirus
 date: 2020-03-19
 ---
-For the reader coming here from the far future, this was written in the early stages of the American response to Coronavirus (COVID-19). Today, the University System announced that students are no expected to return to campus, and the planned instantaneous rollout of online coursework at Towson (and all other USM schools) is expected to fill the gaps.
+*For the reader coming here from the far future, this was written in the early stages of the American response to Coronavirus (COVID-19). Today, the University System announced that students are no expected to return to campus, and the planned instantaneous rollout of online coursework at Towson (and all other USM schools) is expected to fill the gaps.*
 
-Here is an email I sent to my students, completing their seven-week session course in mid March 2020.
+*Here is an email I sent to my students, completing their seven-week session course in mid March 2020.*
 
 Hey gang!
 
@@ -31,4 +31,4 @@ Please be safe, protect yourselves and your families, and consider your home-pla
 
 It has been an immense pleasure seeing this mixed group of backgrounds and interests (let alone graduate school majors!) gel into a wonderful learning experience! Thank you! Thank you! Thank you! After this is all over, fist bumps all around!
 
-Be safe, reader.
+*Be safe, reader.*
