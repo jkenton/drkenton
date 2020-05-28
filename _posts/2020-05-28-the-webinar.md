@@ -15,9 +15,9 @@ Come learn about the program. There is a webinar tonight!
 Here's the information! Please share with others you know who might be interested:
 
 
-eLearning Information Session (2) 5/28 @ 8pm  Jeff Kenton
-https://towson.webex.com/towson/j.php?MTID=m08ad7e616e8d32ab660ded6f62642efe
-Call-in toll-free number (US/Canada): 1-877-668-4490
-Call-in toll number (US/Canada): 1-408-792-6300
-Access code: 791 968 488
-Meeting Password: towsonistc2020
+eLearning Information Session (2) 5/28 @ 8pm  Jeff Kenton <br />
+<a href="https://towson.webex.com/towson/j.php?MTID=m08ad7e616e8d32ab660ded6f62642efe">https://towson.webex.com/towson/j.php?MTID=m08ad7e616e8d32ab660ded6f62642efe</a><br />
+Call-in toll-free number (US/Canada): 1-877-668-4490<br />
+Call-in toll number (US/Canada): 1-408-792-6300 <br />
+Access code: 791 968 488 <br />
+Meeting Password: towsonistc2020<br />
