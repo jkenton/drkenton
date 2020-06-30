@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm not teaching on campus in Fall 2020, here's why
+title: I'm not teaching on campus in Fall 2020, and here's why
 date: 2020-06-30
 ---
 
