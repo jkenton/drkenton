@@ -4,7 +4,7 @@ title: Some musings about remote learning challenges
 date: 2020-07-07
 ---
 
-
+<img src="/images/thinking.jpg">
 
 Lately, I've been hearing with increasing frequency about folks who either:
 
