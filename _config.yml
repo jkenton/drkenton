@@ -10,7 +10,7 @@ title: "Professor Kenton"
  github_username: jkenton
  future: false
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: pretty
 # Build settings
 theme: slate
 # plugins:
