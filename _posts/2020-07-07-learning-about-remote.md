@@ -8,19 +8,21 @@ date: 2020-07-07
 
 Lately, I've been hearing with increasing frequency about folks who either:
 
-<ol><li>have students who are struggling with the new *learning* expectations, or
-<li>as teachers they are struggling with the *teaching* expectations
+<ol><li>have students who are struggling with the new *learning* expectations, or</li>
+<li>as teachers they are struggling with the *teaching* expectations</li>
 
 </ol>
 
 Let me summarize three of the anecdotes I have heard recently. They all revolve somewhat around the same topic, but from different points of view.
+
  <ul>
-<li>Students arrive to the remote learning environment ill-prepared or in other ways unready to learn
+<li>Students arrive to the remote learning environment ill-prepared or in other ways unready to learn</li>
 
-<li>Teachers have a hard time getting the **management** system to do what they want, and they fail to engage with the entirety of the class
+<li>Teachers have a hard time getting the **management** system to do what they want, and they fail to engage with the entirety of the class</li>
 
-<li>Teachers and students are both frustrated because the system seems to be getting in the way of (teaching | learning) and it seems easier to just "flee" (disengage and just be present instead) than "fight" (resolve the issue adequately)
+<li>Teachers and students are both frustrated because the system seems to be getting in the way of (teaching | learning) and it seems easier to just "flee" (disengage and just be present instead) than "fight" (resolve the issue adequately)</li>
 </ul>
+
 
 *[Aside: Of course, let's not skip over the largest issue, which is access to technology in the first place. A student cannot participate online if they do not have both an Internet capable device AND reliable access to fairly robust Internet. I started learning formally about technology education in the mid-90s, and this (or a very close analog) has been a challenge for all of that time. Devices wear out and break, or at the least need periodic replacement. Internet access is a subscription that costs money. If ones school or home situation does not allow this discretionary spending, then no devices. If fortunate, a student may have access to a cell phone with a data plan, but very likely not a separate device for remote learning. This topic is an entirely different situation. And is beyond the scope of this discussion. Perhaps, even on a larger scale than this one. In any event, back to the topic .]*
 
@@ -62,13 +64,13 @@ I have intended to point out the differences in learning and teaching contexts. 
 OK, I painted a picture. Now what can we DO to change anything? Here are some thoughts:
 
 <ul>
-<li>Start a routine that involves "activating" some of the transition from "Home" to "School" Maybe a theme a day. Like orange socks day, or blue shirt day, or funny hat day, or whatever. Something that would draw a learner into changing their thoughts from Home toward School.
+<li>Start a routine that involves "activating" some of the transition from "Home" to "School" Maybe a theme a day. Like orange socks day, or blue shirt day, or funny hat day, or whatever. Something that would draw a learner into changing their thoughts from Home toward School.</li>
 
-<li>Post questions in advance that have a correct answer. Student needs to answer the question correctly before joining the video conference.
+<li>Post questions in advance that have a correct answer. Student needs to answer the question correctly before joining the video conference.</li>
 
-<li> Get them up and moving. Start a lesson with an ad hoc "show and tell". Each person needs to find something round (or green or cubic or whatever), and needs to describe it in one sentence to start the conference.
+<li> Get them up and moving. Start a lesson with an ad hoc "show and tell". Each person needs to find something round (or green or cubic or whatever), and needs to describe it in one sentence to start the conference.</li>
 
-<li> Ask everyone (one at a time) to say their names, and tell one idea about the assignment that was confusing (or especially awesome). Allow some time for conversation.
+<li> Ask everyone (one at a time) to say their names, and tell one idea about the assignment that was confusing (or especially awesome). Allow some time for conversation.</li>
 </ul>
 
 Comments? Hit me at <a href="mailto:jkenton@towson.edu">jkenton@towson.edu</a>
