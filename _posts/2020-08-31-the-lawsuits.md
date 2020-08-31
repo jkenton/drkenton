@@ -13,13 +13,13 @@ The frustration now begins in earnest. That's right folks, <a href="https://theh
 Yes, indeed, Americans have no shortage of disposable money to try to force other folks to do their will. And sometimes a shocking paucity of "sense" when it comes to truly dealing with a remarkable and literally worldwide *communicable disease*.
 
 <ul>
-<li>And despite all the opportunities to see that wne large groups of folks get together, there is another outbreak.
+<li>And despite all the opportunities to see that wne large groups of folks get together, there is another outbreak.</li>
 
-<li>And despite the scientific evidence that says transmission is only truly stopped when interpersonal contact is absolutely limited.
+<li>And despite the scientific evidence that says transmission is only truly stopped when interpersonal contact is absolutely limited.</li>
 
-<li>And because there is an unproven hypothesis that children are immune.
+<li>And because there is an unproven hypothesis that children are immune.</li>
 
-<li>And in spite of evidence that says many affected young folks have pretty substantial damage to their hearts and lungs as a result of infection.
+<li>And in spite of evidence that says many affected young folks have pretty substantial damage to their hearts and lungs as a result of infection.</li>
 </ul>
 Lots of Americans feel that the appropriate response is to open the public school buildings (involving lots of adults, namely teachers and staff).
 
