@@ -32,4 +32,6 @@ Therefore, given:
 5. the lack of need to physically come to campus, due to the proven use of video conferences to host meetings
 6. the experience of other regions, when resuming "normal life" too soon
 
-in Spring 2021, I will continue to satisfy my teaching and other work obligations from my home, through the use of video conferencing and other teleworking technologies. I anticipate continuing this stance until a proven-effective vaccine is available to me and my family members.
+in Spring 2021, I will continue to satisfy my teaching and other work obligations from my home, through the use of video conferencing and other teleworking technologies.
+
+<b>I anticipate continuing this stance until a proven-effective vaccine is available to me and my family members.</b>
