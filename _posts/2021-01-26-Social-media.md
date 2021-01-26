@@ -19,3 +19,5 @@ Image credit for Parler privacy policy:
 https://www.washingtontimes.com/news/2021/jan/24/parler-provided-freedom-censorship-cost-users-data/
 
 Data Visualization of Parler Data from Jan 6, 2021 protests in Washington DC: https://www.adambreuer.com/map
+
+The Generalized Data Protection Regulation (GDPR): https://gdpr-info.eu/
