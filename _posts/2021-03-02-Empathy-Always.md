@@ -23,6 +23,6 @@ A few years ago, I was made aware of a "thought technology" that can nicely sum 
 
 Thanks!
 
-So, please, dear reader... Remember that today you may encounter someone who is having the worst day of their life so far. Please know that their attitude toward you or others may be a result of that "worst day ever", and lend them some aid rather than scorn. <p />
+So, please, dear reader... Remember that today you may encounter someone who is having the worst day of their life so far. Please know that their attitude toward you or others may be a result of that "worst day ever", and lend them some aid rather than scorn. <br />
 
 I'm working on this too.
