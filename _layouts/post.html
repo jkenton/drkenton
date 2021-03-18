@@ -10,9 +10,11 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-    <!-- COMMENTS -->
+
     <h3>Comments?</h3>
-    
+{% include disqus.html %}
+
+    <!--
     		<script src="https://utteranc.es/client.js"
     		        repo="jkenton/drkenton"
     		        issue-term="title"
@@ -20,7 +22,7 @@ layout: default
     						label="Comment"
     		        crossorigin="anonymous"
     		        async>
-    		</script>
+    		</script> -->
     	<!--END COMMENTS>
   </div>
 
