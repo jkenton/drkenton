@@ -48,8 +48,8 @@ In his professional writing, Knowles identified five assumptions about Adult Lea
 
 
 References:
-Knowles, M. (1984). *The Adult Learner: A Neglected Species* (3rd Ed.). Houston, TX: Gulf Publishing.
-Knowles, M. (1984). *Andragogy in Action*. San Francisco: Jossey-Bass.
-Kearsley, G. (2010). Andragogy (M.Knowles). The theory Into practice database. Retrieved from http://tip.psychology.org
+Knowles, M. (1984). *The Adult Learner: A Neglected Species* (3rd Ed.). Houston, TX: Gulf Publishing.<br />
+Knowles, M. (1984). *Andragogy in Action*. San Francisco: Jossey-Bass.<br />
+Kearsley, G. (2010). Andragogy (M.Knowles). The theory Into practice database. Retrieved from <a href="http://tip.psychology.org">http://tip.psychology.org</a><br />
 
 [Credit where it is due: Image from <a href="https://www.flickr.com/photos/182229932@N07/49014247267">Flickr</a>]
