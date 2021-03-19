@@ -26,9 +26,9 @@ This all has only focused on how kids *could* be allowed to learn in a more natu
 In return for all these expectations, it is shocking how little we expect out of these professionals, and yet how much accountability we place onto them when things don't go well. I'd assume that a person would only acquire accountability for decisions that they made, rather than what they were made to do. We can do better.
 
 ---
-Definitions corner:
-Pedagogy: The science of teaching. The prefix ped- usually means children and the suffix -agogy means to lead. For this purpose, lets assume pedagogy means something like "methods for guiding learning for learners who have no prior knowledge, and few prior, personal experiences"<br />
-Andragogy:  Methods and principles used in adult education. Andr- means adult, and -agogy means to lead. For this purpose let's assume that andragogy means something like "methods of guiding learning for learners who have at least some prior knowledge, and large volumes of prior, personal experiences"
+**Definitions corner**
+* Pedagogy: The science of teaching. The prefix ped- usually means children and the suffix -agogy means to lead. For this purpose, lets assume pedagogy means something like "methods for guiding learning for learners who have no prior knowledge, and few prior, personal experiences"
+* Andragogy:  Methods and principles used in adult education. Andr- means adult, and -agogy means to lead. For this purpose let's assume that andragogy means something like "methods of guiding learning for learners who have at least some prior knowledge, and large volumes of prior, personal experiences"
 
 **Knowles’ 5 Assumptions Of Adult Learners**
 (These are very quick summaries. Any significant difference between what I write here, and what Knowles wrote in his volume of work is unintended.)
