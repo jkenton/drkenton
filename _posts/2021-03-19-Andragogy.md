@@ -51,4 +51,5 @@ References:
 Knowles, M. (1984). *The Adult Learner: A Neglected Species* (3rd Ed.). Houston, TX: Gulf Publishing.
 Knowles, M. (1984). *Andragogy in Action*. San Francisco: Jossey-Bass.
 Kearsley, G. (2010). Andragogy (M.Knowles). The theory Into practice database. Retrieved from http://tip.psychology.org
-[Credit where it is due: Image from <a href"https://www.flickr.com/photos/182229932@N07/49014247267">Flickr</a>]
+
+[Credit where it is due: Image from <a href="https://www.flickr.com/photos/182229932@N07/49014247267">Flickr</a>]
