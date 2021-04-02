@@ -1,5 +1,5 @@
 ---
-title: "Tenure: What is It?"
+title: "Tenure"
 layout: page  
 permalink: /Tenure/
 
