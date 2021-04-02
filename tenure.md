@@ -13,17 +13,43 @@ permalink: /Tenure/
 
 It finally came to a head on April 2, 2021. Look out!
 
+
+First, some background. I will endeavor to provide just the facts of the matter:
+
+<h4>background</h4>
+In August 2020, a junior faculty member (assistant professor. i.e. as yet untenured) at Iowa State University was reprimanded for violating their students' First Amendment rights for excluding certain topics from their projects. Specifically, the instructor wanted to reduce the instances of "othering", where one group identifies and labels another group. 
+
+
+As a result of the students' complaints to the department and College and University, some state legislators tried to advance a bill that would remove tenure from all of the state's public Universities. Some news outlets suggested there was an anti-conservative bias in not only this professor's class, but [insert largest permissible scope description here].
+
+
+In April of 2021, the Iowa legislators withdrew their bills that would result in removing tenure from faculty members at the state's Universities.
+
+[*Ed: A series of text messages from my mom has pointed out these issues to me, and I did my own investigation to "flesh-out" any details to present here.*]*
+
+<h4>The Issue</h4>
+It appears from my read of the issues that there are a number of misconceptions existing around the topics of tenure, intellectual freedom, the nature of academia, and whether there exists what I will call an "Anti-Conservative" bias within academia.
+
+
+<h4>Definitions</h4>
+[*ed: let me just say this. When a blog post acquires a definitions section, it's no long as fun as it was formulated at the beginning...*]
+
+
 Tenure
 - What it is
 - What it does
 - What is doesn't mean
 - can a person lose tenure / get fired?
+- Should there be tenure?
 
 
 Academic Freedom
+- what is academic freedom
+- what is academic freedom, really?
 - professor has freedom to determine HOW the course's outcomes are met
 - profesor does not have the freedom to decide to not meet the course's expectations
 - professor does not have the right to restrict a student's rights (i.e. 1st Amendment)
+- 
 
 
 The nature of academia
