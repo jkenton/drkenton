@@ -6,7 +6,7 @@ permalink: /Tenure/
 ---
 
 <figure>
-  <img src="/images/tenure.jpg"> alt="AAUP's Definition of Tenure">
+  <img src="/images/tenure.jpg" alt="AAUP's Definition of Tenure">
   <figcaption>AAUP Definition of Tenure</figcaption>
 </figure>
 
