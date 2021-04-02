@@ -8,6 +8,6 @@ published: true
 
 <figure>
   <img src="/images/Evolution-of-Intellectual-Freedom-PHD-Comics.jpg" alt="Evolution of Intellectual Freedom Comic">
-  <figcaption>	"Piled Higher and Deeper" by Jorge Cham
+  <figcaption>Caption:	"Piled Higher and Deeper" by Jorge Cham
 www.phdcomics.com</figcaption>
 </figure>
