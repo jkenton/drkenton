@@ -5,6 +5,9 @@ permalink: /Tenure/
 
 ---
 
+<img src="/images/tenure.jpg">
+
+
 It finally came to a head on April 2, 2021. Look out!
 
 Tenure
