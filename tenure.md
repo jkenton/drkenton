@@ -5,7 +5,10 @@ permalink: /Tenure/
 
 ---
 
-<img src="/images/tenure.jpg">
+<figure>
+  <img src="/images/tenure.jpg"> alt="AAUP's Definition of Tenure">
+  <figcaption>AAUP Definition of Tenure</figcaption>
+</figure>
 
 
 It finally came to a head on April 2, 2021. Look out!
