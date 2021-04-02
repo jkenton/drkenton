@@ -3,7 +3,7 @@ title: Intellectual Freedom
 date: 2021-04-02
 layout: post
 comments: true
-published: false
+published: true
 ---
 
 <figure>
