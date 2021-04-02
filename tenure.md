@@ -25,7 +25,7 @@ As a result of the students' complaints to the department and College and Univer
 
 In April of 2021, the Iowa legislators withdrew their bills that would result in removing tenure from faculty members at the state's Universities.
 
-[*Ed: A series of text messages from my mom has pointed out these issues to me, and I did my own investigation to "flesh-out" any details to present here.*]*
+[*Ed: A series of text messages from my mom has pointed out these issues to me, and I did my own investigation to "flesh-out" any details to present here.*]
 
 <h4>The Issue</h4>
 It appears from my read of the issues that there are a number of misconceptions existing around the topics of tenure, intellectual freedom, the nature of academia, and whether there exists what I will call an "Anti-Conservative" bias within academia.
