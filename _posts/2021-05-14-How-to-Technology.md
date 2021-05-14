@@ -5,7 +5,7 @@ layout: post
 comments: true
 ---
 
-<img src="images/envelope.png">
+<img src="/images/envelope.png">
 
 A student (name withheld) sent me the following question:
 
