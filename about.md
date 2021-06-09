@@ -18,4 +18,6 @@ title: About
 <P>Maybe this blog can help address some of those misunderstandings, or at least suggest how some of them could be addressed, respectfully.</p>
 
 <P>Thanks for stopping by! Indeed!</p>
+
+June 2021 Update... Maybe some video clips on the horizon. Maybe...
 </div>
