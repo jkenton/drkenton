@@ -17,7 +17,7 @@ First, as much as possible, make the request personally. Email or a phone call m
 
 Second, make sure that the professor you want to ask  is willing to write a reference letter for you. Some folks will, some folks won't. A professor may be willing to write you a very truthful reference letter, which may not be productive for the job you are seeking.
 
-> Hey Dr. Kenton, this is Alexander Sewandso. I was in your fundamentals class a couple years ago. I am curious if I can ask you to write me a reference letter for graduate program. You and ICan I didn't always see eye-to-eye on every assignment, but I did well in your class and I respect your opinions.
+> Hey Dr. Kenton, this is Alexander Sewandso. I was in your fundamentals class a couple years ago. I am curious if I can ask you to write me a reference letter for graduate program. You and I didn't always see eye-to-eye on every assignment, but I did well in your class and I respect your opinions.
 
 The answer to this question is important. If it's no, move along to the next person on your list. But also clarify the rationale for a "yes" answer. Some folks will answer:
 
