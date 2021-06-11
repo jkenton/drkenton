@@ -1,5 +1,5 @@
 ---
-title: Ask Dr. Kenton: Why are your deadlines split like that?
+title: "Ask Dr. Kenton: Why are your deadlines split like that?"
 date: 2021-06-11
 layout: post
 
