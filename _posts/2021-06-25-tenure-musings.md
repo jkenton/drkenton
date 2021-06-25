@@ -14,7 +14,7 @@ Mine own experience with tenure and promotion has been fraught, so please accept
 * If the tenure decision is made based on merit, the contents of the CV shall suffice.
 * If the tenure decision is made based on published criteria, there should be no misunderstanding related to *too much here*, or *not enough there*.
 
-Yet, the pre-tenure period in academia is almost as much gaslighting as it is meritocracy. It shouldn't be the case that a person feels less than confident about their portfolio of accomplishments, or feels like "Maybe I don't have enough (scholarship | high teacher ratings)?" or "will my devotion to the department, as seen by my willingness to design courses for the new specialization, *count* toward anything?"
+Yet, the pre-tenure period in academia is almost as much gaslighting as it is meritocracy. It shouldn't be the case that a person feels less than confident about their portfolio of accomplishments, or feels like "Maybe I don't have enough scholarship or high-enough teacher ratings?" or "will my devotion to the department, as seen by my willingness to design courses for the new specialization, *count* toward anything?"
 
 I understand from a intellectual-thought-experiment point of view why the University would not publish its criteria for tenure, something akin to a checklist. I'm told its so people don't feel constrained to do things "one specific way", yet I don't know how successful a person has been in the past when treading the "road less traveled by." I'm also told that it prevents folks from doing just the minimum and expecting to get tenured. 
 
