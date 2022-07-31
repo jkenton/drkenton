@@ -1,0 +1,29 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Dr. Jeff Kenton</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li><a href="mailto:jkenton@towson.edu">Administrator's Apprentice</a></li>
+          <li> subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          <li>
+            {% include icon-twitter.html %}
+          <a href="https://www.twitter.com/drjkenton">drjkenton</a>
+          <li>
+            {% include icon-instagram.html %}
+          <a href="https://www.instagram.com/drjkenton">drjkenton</a>
+        </ul>
+      </div>
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,24 @@
+---
+date: 2021-03-18
+title: Learning as Commodity?
+layout: post
+comments: true
+---
+
+<img src="/images/commodity.jpg">
+
+I like to think of teaching as diagnosis. While teaching, the two things I am trying to determine are: What information or understanding does the learner already have, and what support can I offer to get the learner to travel between their "begin state" and their "end state." Over more than 20 years of teaching at the undergraduate and graduate levels, I have developed a set of teaching, technology, and teaching with technology skills. These skills allow me to infer where a student might need the topic or presentation of information to be reframed, or where they may require remediation, or if I need to start over and use a different approach altogether. Technology is an important tool, but not always the first one I choose.
+
+I hope it has always been clear that using technology in teaching has the *potential* to make learning more effective.  The "point" of technology is to offer additional options to a teacher or learner. It is up to the teacher's experience or expertise to determine when and how to apply the technology tools; Even sometimes recognizing that technology is not the right tool. Indeed, technology can exert a lot of extra pressure on the teachers or the learners. That pressure can make it harder to learn effectively, or even prevent it altogether.
+
+Imagine what can happen if one tries to drive a nail with a screwdriver, or screw in a screw with a hammer. They are both great tools, and the outcomes are equally valid and useful, yet each of the tools is best suited for a particular kind of application.
+
+It can take a while to develop any mastery, and that mastery needs to be developed (or supported in its development). In the last ten years or so, I have had many conversations with teachers who reported that their school system did not put forth much support for professional development. instead, the limit of system support boiled down to assigning a teaching computer (or laptop) and telling the teachers where they could download the newest versions of the curriculum materials. As good teachers, they were able to figure things out on their own. This seems to indicate that the technology and technological support are just commodities. A scoop of technology, and a dash of online resources, and filter through the content sieve and voila! Learning! Right?
+
+Another skill that gets overlooked is the desire to resist chasing the newest, latest, and greatest. The volume of software and tools that claim to be educational is quite staggering. Yet, most of it is just entertainment with very little substance. Yes, there are wonderful learning tools that are also entertaining. I would wager that for every BrainPop (to choose one example), there are at least a dozen others that are either not aimed at learning particular lessons, or are just interesting to watch. As I mentioned before, I've been at this for more than twenty years. I know my personal strengths and weaknesses when it comes to applying technology to my teaching "adventures." I also feel like I have a healthy filter for knowing when technology is only window-dressing, or downright friction between a learner and their learning objective. Remember "Second Life?" To me, it seemed like a interesting way to virtualize instruction. Yet, when a tech tool requires substantial skill development, just to use it properly, what is actually being learned? I would wager that "Second Life" did more to complicate and confuse folks than it did to help them learn more effectively.
+
+To sum up, technology is not *THE* answer, but it can help reveal where further learning needs to take place. Technology has the potential to help learning become more effective and/or efficient. The ability to discern when/whether to incorporate technology into lessons is a skill that requires time to develop. And like learning other complicated skills - like piano, violin, or guitar - the time devoted to proper application is often measured best in hours, rather than years. That time must be part of the overall budget for rolling out a new technology-enhanced teaching idea. Lastly, one of the best skills a teacher can develop when teaching with technology is "curation", or selecting good examples from the vast array of options, and discarding the rest.
+
+This process is legitimate, hard work. Anyone trying to tell you otherwise, or who is offering a shortcut, is just selling something.
+
+[Credit where it is due: Image by <a href="https://pixabay.com/users/1137303-1137303/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=835340">Pashminu Mansukhani</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=835340">Pixabay</a>]
