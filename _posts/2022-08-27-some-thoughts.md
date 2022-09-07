@@ -1,5 +1,5 @@
 ---
-title: 2022-08-27-twitter-thoughts
+title: Some thoughts shared on Twitter
 date: 2022-08-27 06:00:00
 layout: post
 comments: true
