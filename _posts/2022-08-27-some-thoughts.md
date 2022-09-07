@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-
+[Ed: i posted this thread in Twitter on or around 8/27. Zero engagement. Par for the Twitter course... it's alright.]
 
 
 
