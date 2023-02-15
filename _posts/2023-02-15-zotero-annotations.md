@@ -7,7 +7,7 @@ comments: true
 
 <figure>
  <img src="/images/obsidian-logo.png" alt="Obsidian's Logo in PNG format"> <br />
- <img src="/images/zotero-logo.jpg" alt="Zotero's Logo in JPG format">
+ <img src="/images/zotero-logo.jpeg" alt="Zotero's Logo in JPG format">
  <figcaption>Zotero and Obsidian are good buddies</figcaption>
 </figure>
 
