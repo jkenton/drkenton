@@ -45,7 +45,7 @@ Now, in a Permanent Note that I am writing in Obsidian, I can transclude only th
 
 Caveats and Pointers learned the hard way:
 
-within Zotero's text editor, starting a line with ## will make the following text bold, which is not ideal. So, I usually write the section header at the end of the previous annotation, then hit "Enter" to "trick" Zotero into putting the section header at the beginning of a line.
+within Zotero's text editor, starting a line with ## will make the following text bold, which is not ideal. So, I usually write the section header at the end of the previous annotation. Then I move the cursor to the space immediately prior to the ##, and hit "Enter" to "trick" Zotero into putting the section header at the beginning of a line. Also, make sure the section header is on its OWN LINE, and that it is brief.
 
 Yes, it is possible to do the "section headering" within the Obsidian note. Yet, if something happens to the obsidian note (a career in tech support and technology use makes me paranoid and avoidant of such issues), you can create a new note from Zotero's annotation file. Yet, THAT file will then need to be "re-section headered". And any links you made in Permanent notes to particular sections will break, unless you are fastidious about renaming the section headers exactly as before.
 
@@ -54,10 +54,10 @@ I choose two ## merely for my own convenience, and reduced incidence of accident
 Discussion: 
 This process has made much more clear to me how the Zettelkasten technique can be useful. 
 
-It also forces me to pre-process the literature notes before importing them into Obsidian (which is helpful for remembering the contents of the overall reference). 
+It also forces me to pre-process the annotation notes in Zotero before importing them into Obsidian as Literature Notes (which is helpful for remembering the contents of the overall reference). 
 
-I was a "garbage collector" just highlighting passages and getting the annotations into Obsidian. Because I had no context for the contents of the annotations file, it became a source of significant friction to have to re-read, locate the section i wanted and manually copy-paste the relevent section into a new document. You know, each time I wanted to include something from the annotations. Yuck.
+I am otherwise a "garbage collector" just highlighting passages and getting the annotations into Obsidian. Because I am unable to remember each context for the contents of the annotations file, it became a source of significant friction to have to re-read, locate the section I wanted, and manually copy-paste the relevent section into a new document. You know, each time I wanted to include something from a Literature Note into a Permanent Note. Yuck. And objectionable, frankly.
 
 Now, the citations are much more accessible and useful and linkable and helpful.
 
-I don't know who else could benefit from this, but if it was you, let me know. My contact info is on every blog page. Email is great!
+I don't know who else could benefit from this, but if it was you, let me know. My contact info is on the footer of every blog page. Email is great!
