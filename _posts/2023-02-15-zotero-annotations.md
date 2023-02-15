@@ -11,7 +11,7 @@ comments: true
  <figcaption>Zotero and Obsidian are good buddies</figcaption>
 </figure>
 
-I've gotten quite enamored with the Zettelkasten method after reading Ahrens' book, and getting to the source material of Luhmann's original works. [Zettelkasten.de](https://zettelkasten.de/posts/overview/) is a suitable place to get started.
+I've gotten quite enamored with the Zettelkasten method after reading Ahrens' book (*How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*), and getting to the source material of Niklas Luhmann's original works. [Zettelkasten.de](https://zettelkasten.de/posts/overview/) is a suitable place to get started.
 
 Quickly: I dont know why people insist on suggesting that timestamps are important for zettels. Luhmann never included date information and had a pretty good organizational structure using category codes and alternating numbers and letters to suggest linkages between related notes. The timestamps pushed me off the wagon before.
 
