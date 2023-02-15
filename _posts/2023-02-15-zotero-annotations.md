@@ -1,0 +1,63 @@
+---
+title: Zotero Annotations as Literature Notes into Obsidian
+date: 2023-02-15 06:00:00
+layout: post
+comments: true
+---
+
+<figure>
+ <img src="/images/obsidian-logo.png" alt="Obsidian's Logo in PNG format"> <br />
+ <img src="/images/zotero-logo.jpg" alt="Zotero's Logo in JPG format">
+ <figcaption>Zotero and Obsidian are good buddies</figcaption>
+</figure>
+
+I've gotten quite enamored with the Zettelkasten method after reading Ahrens' book, and getting to the source material of Luhmann's original works. [Zettelkasten.de](https://zettelkasten.de/posts/overview/) is a suitable place to get started.
+
+Quickly: I dont know why people insist on suggesting that timestamps are important for zettels. Luhmann never included date information and had a pretty good organizational structure using category codes and alternating numbers and letters to suggest linkages between related notes. The timestamps pushed me off the wagon before.
+
+Also quickly: ideas and insights get into the permanent note collection after starting as "fleeting notes." Most fleeting notes are discarded very quickly, because not every idea is a masterpiece.
+
+Finally: The method suggests that permanent notes are stored and linked. The production of "literature notes" goes along with this process. Literature notes are kept carefully and also stored forever, yet they are not permanent notes. Multiple permanent notes may refer to a given literature note, but I don't believe the literature notes are linked together.
+
+This blog page attempts to describe the process of creating useful literature notes from Annotations made in Zotero. [Check out this resource for more on the mechanics of annotation and Zotero](https://libguides.graduateinstitute.ch/zotero/pdfs). These annotations eventually get into Obsidian so i can refer to them from the Permanent Notes that are percolating within Obsidian.  [Check out this resource for one user's workflow getting Zotero annotations into Obsidian](https://medium.com/@alexandraphelan/an-academic-workflow-zotero-obsidian-56bf918d51ab).
+
+In my estimation, the usefulness of a reference or a citation is greatly enhanced by seeing "transcluded" information directly within my Permanent Notes. That is, instead of just creating a reference, or even a link to the literature note, I find it way more useful to see the annotated text directly in the note. [Check out this resource for the use of transclusion in Obsidian](https://jarango.com/2021/09/24/using-transclusion-in-obsidian/)
+
+Whereas transclusion CAN include the entire file that is being (ahem) transcluded, I don't want that. I only want the "useful" sections of the references to be transcluded. To do this, I borrow the attribute of transclusion that can bring in only the contents of a given section, as set off by section headers in the Obsidian document. [Check out Headers and Section syntax here](https://help.obsidian.md/How+to/Format+your+notes#Headers)
+
+With me so far? I hope so...
+
+Status: The Obsidian note that was imported from Zotero is a Literature note. How cool is that?
+
+Problem: Zotero's annotations do not automatically include the # section cues, and setting that function up may be technically possible, but I don't want EACH highlight or annotation to become its own section. Plus, figuring out how to auto-number or name them became a real bummer.
+
+Conditions: What I want is to keep together thematically related annotations, and to transclude only the relevant related annotations. Enter Luhmann's method, Obsidian's transclusion function, and a curious mind...
+
+After creating the Annotation note in Zotero, I go into that annotation note and create section headers with brief descriptors that identify what is in the related annotation.
+
+For example, I might write create a new comment called "## this note talks about methodology concerns related to secondary data analysis" in the annotation note (Caveats and pointers below). 
+
+Then I can import each reference's annotations from Zotero to Obsidian (Using the "Zotero Integration" plugin in Obsidian), and Obsidian creates a note with a name related to the document source in Zotero (AuthornameYearThreeTitleWords is my preferred format). The section headers are in place, immediately prior to the relevant passages. For the rest of this description, let's say the imported note was named "Kenton2023ZoteroAnnotationsObsidian."
+
+Cool? Make the section headers in Zotero's Annotation note before importing the annotation into Obsidian.
+
+Now, in a Permanent Note that I am writing in Obsidian, I can transclude only the specific above-mentioned section by typing ![[Kenton2023ZoteroAnnotationsObsidian]]. To access a pulldown option of the available sections, include a # after the last word of the linked file, like so: ![[Kenton2023ZoteroAnnotationsObsidian#]]. In that pull down list will be a section called "This note talks about methodology concerns related to secondary data analysis". Select that, toggle the preview of the note, and see the appropriate section automagically appear. The final link will be: ![[Kenton2023ZoteroAnnotationsObsidian#This note talks about methodology concerns related to secondary data analysis]]
+
+Caveats and Pointers learned the hard way:
+
+within Zotero's text editor, starting a line with ## will make the following text bold, which is not ideal. So, I usually write the section header at the end of the previous annotation, then hit "Enter" to "trick" Zotero into putting the section header at the beginning of a line.
+
+Yes, it is possible to do the "section headering" within the Obsidian note. Yet, if something happens to the obsidian note (a career in tech support and technology use makes me paranoid and avoidant of such issues), you can create a new note from Zotero's annotation file. Yet, THAT file will then need to be "re-section headered". And any links you made in Permanent notes to particular sections will break, unless you are fastidious about renaming the section headers exactly as before.
+
+I choose two ## merely for my own convenience, and reduced incidence of accidentally making a section where I don't want one in the Annotation note.
+
+Discussion: 
+This process has made much more clear to me how the Zettelkasten technique can be useful. 
+
+It also forces me to pre-process the literature notes before importing them into Obsidian (which is helpful for remembering the contents of the overall reference). 
+
+I was a "garbage collector" just highlighting passages and getting the annotations into Obsidian. Because I had no context for the contents of the annotations file, it became a source of significant friction to have to re-read, locate the section i wanted and manually copy-paste the relevent section into a new document. You know, each time I wanted to include something from the annotations. Yuck.
+
+Now, the citations are much more accessible and useful and linkable and helpful.
+
+I don't know who else could benefit from this, but if it was you, let me know. My contact info is on every blog page. Email is great!
