@@ -27,29 +27,40 @@ Whereas transclusion CAN include the entire note that is being linked, I don't w
 
 With me so far? I hope so...
 
-Status: The Obsidian note that was imported from Zotero is a Literature note. How cool is that?
+## Status: 
+The Obsidian note that was imported from Zotero is a Literature note. How cool is that?
 
-Problem: Zotero's annotations do not automatically include the # section cues. It may be possible to automatically separate the annotations with section header characters. But they won't automatically have useful and descriptive names, and I don't want EACH highlight or annotation to become its own section. 
+## Problem: 
+Zotero's annotations do not automatically include the # section cues. It may be possible to automatically separate the annotations with section header characters. But they won't automatically have useful and descriptive names, and I don't want EACH highlight or annotation to become its own section. 
 
-Conditions: What I want is to keep together thematically related annotations, and to transclude only the relevant related annotations. Enter Luhmann's method, Obsidian's transclusion function, and a curious mind...
+## Conditions: 
+What I want is to keep together thematically related annotations, and to transclude only the relevant related annotations. Enter Luhmann's method, Obsidian's transclusion function, and a curious mind...
 
-Onward: After creating the Annotation note from a reference document in Zotero, I go into that annotation note and create section headers with meaningful brief descriptors that identify what is in the subsequent annotation.
+## Onward: 
+After creating the Annotation note from a reference document in Zotero, I go into that annotation note and create section headers with meaningful brief descriptors that identify what is in the subsequent annotation.
 
-For example, I might write create a new comment called "## this note talks about methodology concerns related to secondary data analysis" in the annotation note (see some "Caveats and Pointers" below). 
+For example, I might write create a new comment called "## methodology concerns related to secondary data analysis" in the annotation note (see some "Caveats and Pointers" below). 
 
-Then I can import each reference's annotations from Zotero to Obsidian (Using the "Zotero Integration" plugin in Obsidian), and Obsidian creates a note with a name related to the document source in Zotero (AuthornameYearThreeTitleWords is my preferred format). The section headers are in place, immediately prior to the relevant passages. For the rest of this description, let's say the imported note was named "Kenton2023ZoteroAnnotationsObsidian."
+When an annotations note is fully "section headered," I can import each reference's annotations from Zotero to Obsidian (Using the "Zotero Integration" plugin in Obsidian). Obsidian then creates a Literature note with a name related to the document source in Zotero (AuthornameYearThreeTitleWords is my preferred format). The section headers are in place, placed immediately prior to the relevant passages. For the rest of this description, let's say the imported note was named "Kenton2023ZoteroAnnotationsObsidian."
 
 Cool? Make brief, meaningful section headers in Zotero's Annotation note before importing the annotation into Obsidian.
 
-Now, in a Permanent Note that I am writing in Obsidian, I can transclude only the specific above-mentioned section by typing ![[Kenton2023ZoteroAnnotationsObsidian]]. 
+Now, in a Permanent Note that I am writing in Obsidian, I can transclude only the specific above-mentioned section by typing:
 
-To access a pulldown option of the available sections, include a # after the last word of the linked file, like so: ![[Kenton2023ZoteroAnnotationsObsidian#]]. 
+![[Kenton2023ZoteroAnnotationsObsidian]] 
 
-In that pull down list, let's say there is a section called "Methodology concerns related to secondary data analysis". Select that header. The final link will become: ![[Kenton2023ZoteroAnnotationsObsidian#Methodology concerns related to secondary data analysis]]
+To access a pulldown option of available sections, include a # after the last word of the linked file, like so: 
+
+![[Kenton2023ZoteroAnnotationsObsidian#]]
+
+In that pull down list, there is a section I created, called "Methodology concerns related to secondary data analysis". Select that header. The final link to that transclusion section will become: 
+
+![[Kenton2023ZoteroAnnotationsObsidian#Methodology concerns related to secondary data analysis]]
 
 Lastly, toggle the preview of the note, and see the appropriate section automagically appear. 
 
-Caveats and Pointers (learned the hard way):
+
+## Caveats and Pointers (learned the hard way):
 
 within Zotero's text editor, starting a line with ## will make the following text bold, which is not ideal. So, I usually write the section header at the end of the previous annotation. Then I move the cursor to the space immediately prior to the ##, and hit "Enter" to "trick" Zotero into putting the section header at the beginning of a line. Also, make sure the section header is on its OWN LINE, and that the section header is brief.
 
@@ -59,7 +70,7 @@ Related: Make sure to completely annotate the document in Zotero before creating
 
 I choose two ## as my section delimiters merely for my own convenience, and reduced incidence of accidentally making a section where I don't want one in the Zotero Annotation note. 
 
-Discussion: 
+## Discussion: 
 This process has made much more clear to me how the Zettelkasten technique can be useful for making linkages between relatable documents.. 
 
 It also forces me to pre-process the annotation notes in Zotero before importing them into Obsidian as Literature Notes (which is helpful for remembering the contents of the overall reference). Taking the extra time to get that annotation file set up pays multiple dividends down the line. For example, being able to skim the sections when transcluding makes it very easy to get just the right content into the Permanent Note.
