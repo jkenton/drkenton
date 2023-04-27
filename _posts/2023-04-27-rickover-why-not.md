@@ -6,10 +6,7 @@ comments: true
 ---
 
 
-<figure>
- <img src="/images/Hyman-G-Rickover-1955.webp" alt="Hyman Rickover" width="150"> <img src="/images/Jimmy_Carter.jpg" alt="Jimmy Carter" width = "150"><img src="/images/Giannis_Antetokuompo.webp" alt="Giannis_Antetokuompo" width="150">
-</figure>
-
+ <img src="/images/Hyman-G-Rickover-1955.webp" alt="Hyman Rickover" width="150"> <img src="/images/Jimmy_Carter.jpg" alt="Jimmy Carter" width = "150"><img src="/images/Giannis_Antetokuompo.webp" alt="Giannis Antetokuompo" width="150">
 
 
 
