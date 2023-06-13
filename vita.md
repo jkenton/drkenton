@@ -66,7 +66,10 @@ Blummer, B., & Kenton, J. M. (2018). Academic and research libraries’ portals:
 Blummer, B., & Kenton, J. M. (2016). Academic libraries’ mobile initiatives and research from 2010 to the present: Identifying themes in the literature. In L. Briz-Ponce, J. A. Juanes-Méndez, & F. J. García-Peñalvo (Eds.), *Handbook of Research on Mobile Devices and Applications in Higher Education Settings* (pp. 118–139). https://doi.org/10.4018/978-1-5225-0256-2.ch006
 
  **PUBLICATIONS AND PAPERS**
-Blummer, B. & Kenton, J.M. (Under Review). Project management in academic libraries. Library Management.
+Kenton, J. M. (2023, April 14). If I missed you, please leave a note in the chat. Faculty Focus. Retrieved from
+https://www.facultyfocus.com/articles/effective-teaching-strategies/if-i-missed-you-please-leave -a-note-in-the-chat/
+
+Blummer, B. & Kenton, J.M. (2020) A systematic review of e-books in academic libraries: Access, advantages, and usage, New Review of Academic Librarianship, 26(1), 79-109 DOI: 10.1080/13614533.2018.1524390
 
 Blummer, B. & Kenton, J.M. (2019). Academic libraries’ outreach efforts: Identifying themes in the literature. Public Services Quarterly,15 (3) 179-204.
 
@@ -256,4 +259,4 @@ I served as EDTL rep to  both the travel committee and the FDRC, co-hosting the 
 
 I served as commencement faculty marshal throughout my term at Towson
 
-*LAST UPDATED: 2022-03-17*
+*LAST UPDATED: 2023-06-13*
