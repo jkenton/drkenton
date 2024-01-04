@@ -38,8 +38,7 @@ Without turning toward me - because he was paying close attention to the discuss
 
 "That's Niamh," whispered Angus.
 
-"It was obvious that all of the University Presidents had received very similar preparation by their respective legal counsels. The congressional testimony was very lawyer-coached, and leaned on the fact that policy can only act upon DEEDS and not OPINIONS. 
-Yet, there are many folks who see Israel as a proxy for every Jewish person, and that is where the problems start. Jews cannot count on campus police or even state police to judge that a protest is merely free speech.  It is Hate Speech, spurring people to act upon the message. And in this case, that message is to eradicate Israel and all Jews. "
+"It was obvious that all of the University Presidents had received very similar preparation by their respective legal counsels. The congressional testimony was very lawyer-coached, and relied on the belief that everyone understood and agreed that policy can only act upon DEEDS and not OPINIONS. Yet, there are many folks who see Israel as a proxy for every Jewish person, and that is where the problems start. Jews cannot count on campus police or even state police to judge that a protest is merely free speech.  It is Hate Speech, spurring people to act upon the message. And in this case, that message is to eradicate Israel and all Jews. "
 
 <img src="/images/Piotr.jpeg" width="150" alt="Piotr">
 
@@ -78,7 +77,7 @@ Al didn't hesitate. "The politician Stefanik got almost exactly what she wanted.
 
 "Isn't it a pain in the neck to find, recruit and hire a University President?" I followed up.
 
-Birk responded this time, "Well, no institution who has asked its President to resign has then later decided that they don't need one. I've served on a few of those searches in my career. The process is always very secretive, and the representative group of faculty members, staff members, and administrative staff is picked with especial care. And there's often an executive search agency that facilitates the whole thing. It's exciting and important work, and in almost every case, the process leads to a highly qualified candidate who is enough different from the prior President that the need for replacement is satisfied. But not SO different that the business side of the institution suffers."
+Birk responded this time, "Well, no institution who has asked its President to resign has then later decided that they don't need one. I've served on a few Presidential searches in my career. The process is always very secretive, and the representative group of faculty members, staff members, and administrative staff is picked with especial care. There's often an executive search agency that facilitates the whole thing. It's exciting and important work, and nobody involved is identified for perhaps obvious reasons. In almost every case, the process leads to a highly qualified candidate who is enough different from the prior President that the need for replacement is satisfied. But not SO different that the business side of the institution suffers."
 
 <img src="/images/Birk.jpeg" width="150" alt="Birk">
 
