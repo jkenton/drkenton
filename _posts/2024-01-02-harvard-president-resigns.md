@@ -117,7 +117,7 @@ Al added, "Yes, it takes a long time to cultivate and develop the group of peopl
 
 <img src="/images/Algernon_Endicott.png" width="150" alt="Algernon Endicott, please call him 'Al'">
 
-I raised the last remnants of my Bender to Al and Birk, and said "Thank you, sirs. Very interesting viewpoints, everyone!"
+I raised the last remnants of my Bender to Al and Birk, and said "Thank you, both, and very interesting viewpoints, everyone!"
 
 I then turned to Angus and said good-bye to him, then to the room. Angus nodded and the rest of the room gave a variety of hand waves, head nods, and eye rolls, returning to their conversation. I grabbed my glass and returned to the bar area.
 
