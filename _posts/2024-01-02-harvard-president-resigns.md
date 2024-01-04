@@ -90,7 +90,7 @@ Without turning toward me - because he was paying close attention to the discuss
 
 "Living in a college town will surprise you," Angus whispered back with a glimmer in his eye.
 
-"I can't help myself," I whispered to Angus before saying loudly, "What makes Penn and Harvard different from MIT? I mean, Penn and Harvard seem to fall into the realm of the last point that Al just made. That is, a College or University board of regents or visitors or trustees who cannot tolerate the bad or negative attention. One must presume that each of these presitigious insitutions received somewhat similar volumes of outrage about what 'their' President said or didn't say during the Congressional testimony."
+"I can't help myself," I whispered to Angus before saying loudly, "What makes Penn and Harvard different from MIT? I mean, Penn and Harvard seem to fall into the realm of the last point that Al just made. That is, a College or University board of regents or visitors or trustees who cannot tolerate the bad or negative attention. One must presume that each of these presitigious insitutions received somewhat similar volumes of outrage about what 'their' President said or didn't say during the Congressional testimony. So, what makes MIT different?"
 
 I must admit, I was waiting for some enlightened response from Al and/or Birk, to explain why two institutions would toss their carefully selected Presidents under the bus very quickly, while another was more resistant.
 
@@ -101,7 +101,7 @@ Al didn't hesitate. "The politician Stefanik got almost exactly what she wanted.
 
 "Isn't it a pain in the neck to find, recruit and hire a University President?" I followed up.
 
-Birk responded this time, "Well, no institution who has asked its President to resign has then later decided that they don't need one. I've served on a few Presidential searches in my career. The process is always very secretive, and the representative group of faculty members, staff members, and administrative staff is picked with especial care. There's often an executive search agency that facilitates the whole thing. It's exciting and important work, and nobody involved is identified for perhaps obvious reasons. In almost every case, the process leads to a highly qualified candidate who is enough different from the prior President that the need for replacement is satisfied. But not SO different that the business side of the institution suffers."
+Birk responded this time, "Well, no institution who has asked its President to resign has then later decided that they don't need one. I've served on a few Presidential searches in my career. The process is always very secretive, and the search committee is a representative group of faculty members, staff members, and administrative staff, picked with especial care. There's often an executive search agency that facilitates the whole thing. It's exciting and important work, and nobody selected for interview is identified for perhaps obvious reasons. In almost every case, the process leads to a highly qualified candidate who is enough different from the prior President that the need for replacement is satisfied. But not SO different that the business side of the institution suffers."
 
 <img src="/images/Birk.jpeg" width="150" alt="Birk">
 
