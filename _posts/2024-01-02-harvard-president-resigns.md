@@ -68,11 +68,11 @@ Without turning toward me - because he was paying close attention to the discuss
 
 "I think I need a scorecard to keep these positions straight," I whispered back. Angus gave a sideways grin.
 
-"I worked in an administrative for 25 years before I retired last year. What I see as obvious is that the Universities that have asked their Presidents to resign buckled to pressure. This pressure was applied by a politician desirous of attention, to sort of 'put these academic elites' in their place, and to call out their non-support for Jewish students who feel threatened and harmed by the increase in protests over the current situation in Israel and Gaza. It hasn't just been one politician. It has been also - in each case - a bloc of benefactors who threatened to cancel or terminate their benefaction unless the President is removed. I will also say in the case of President Gay that plagiarism on a college campus is like a misdemeanor. Warnings and probation, etc. are the worst a person can expect. In fact, very many of the plagiarism complaints raised by faculty members are turned back before they even reach the level of academic affairs review, let alone punishment. In other words, the plagiarism is a red herring. Red meat for people who want to claim malfeasance without making any potentially disparaging remarks about a person's preparation or ethnicity."
+"I worked in an administrative position for 25 years before I retired last year. What I see as obvious is that the Universities that have asked their Presidents to resign buckled to pressure. This pressure was applied by a politician desirous of attention, to sort of 'put these academic elites' in their place, and to call out their non-support for Jewish students who feel threatened and harmed by the increase in protests over the current situation in Israel and Gaza. It hasn't just been one politician. It has been also - in each case - a bloc of benefactors who threatened to cancel or terminate their benefaction unless the President is removed. I will also say in the case of President Gay that plagiarism on a college campus is like a misdemeanor. Warnings and probation, etc. are the worst a person can expect. In fact, very many of the plagiarism complaints raised by faculty members are turned back before they even reach the level of academic affairs review, let alone punishment. In other words, the plagiarism is a red herring. Red meat for people who want to claim malfeasance without making any potentially disparaging remarks about a person's preparation or ethnicity."
 
 <figure>
 <img src="/images/Birk.jpeg" width="150" alt="Birk">
- <figcaption>Beers at the Aging Matador</figcaption>
+ <figcaption>Birk</figcaption>
 </figure>
 
 "That's Birk, who worked in the Provost's office at the local University," whispered Angus.
@@ -81,7 +81,7 @@ Without turning toward me - because he was paying close attention to the discuss
 
 <figure>
 <img src="/images/Algernon_Endicott.png" width="150" alt="Algernon Endicott, Jr., please call him 'Al'">
- <figcaption>Beers at the Aging Matador</figcaption>
+ <figcaption>Algernon Endicott, Jr., please call him 'Al'</figcaption>
 </figure>
 
 "Al Endicott. He's a former regent and trustee of a large University system," whispered Angus.
