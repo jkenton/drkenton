@@ -10,7 +10,15 @@ comments: true
  <figcaption>Beers at the Aging Matador</figcaption>
 </figure>
 
-The New Year had come and gone, and I had been away from the Aging Matador for too long. As I wandered in, the bartender got my attention. Then poured me a large Bender and set it down, before I even had a chance to speak. He could probably see it on me that I wanted one. Or maybe it was a prescription? One never knows about these things, and smart people don't ask too many questions about it. He made a vague gesture with his head toward a lively discussion in the back room. I turned my head to locate the locus of the discussion, and before I turned back, the bartender was gone. That guy is always moving.
+The New Year had come and gone, and I had been away from the Aging Matador for too long. As I wandered in, the bartender got my attention. Then poured me a large Bender and set it down, before I even had a chance to speak. He could probably see it on me that I wanted one. Or maybe it was a prescription? One never knows about these things, and smart people don't ask too many questions about it.
+
+<figure>
+<img src="/images/bender.jpg" width="150" alt="Bender, the biggest, strongest, cheapest drink">
+ <figcaption>Bender, the biggest, strongest, cheapest drink</figcaption>
+</figure>
+
+
+He made a vague gesture with his head toward a lively discussion in the back room. I turned my head to locate the locus of the discussion, and before I turned back, the bartender was gone. That guy is always moving.
 
 <figure>
  <img src="/images/bartender.jpg" width="150" alt="The Bartender">
@@ -92,7 +100,7 @@ Without turning toward me - because he was paying close attention to the discuss
 
 "I can't help myself," I whispered to Angus before saying loudly, "What makes Penn and Harvard different from MIT? I mean, Penn and Harvard seem to fall into the realm of the last point that Al just made. That is, a College or University board of regents or visitors or trustees who cannot tolerate the bad or negative attention. One must presume that each of these presitigious insitutions received somewhat similar volumes of outrage about what 'their' President said or didn't say during the Congressional testimony. So, what makes MIT different?"
 
-I must admit, I was waiting for some enlightened response from Al and/or Birk, to explain why two institutions would toss their carefully selected Presidents under the bus very quickly, while another was more resistant.
+I must admit, I was hoping for some enlightened response from Al and/or Birk, to explain why two institutions would toss their carefully selected Presidents under the bus very quickly, while another was more resistant.
 
 
 Al didn't hesitate. "The politician Stefanik got almost exactly what she wanted. She asked a tough question about how she framed anti-semitism on a college campus. It was like the Boston lawyer that eventually ended Joe McCarthy's anti-communist reign in the 1950s, by asking 'Have you no sense of decency?' Even though all three Presidents essentially answered the same way, only MIT jumped to support its President while the others pushed their respective Presidents under the first bus available. Stefanik is making the best advantage that she can about the situation. Besides, Kornbluth is Jewish, so the stain of potential anti-semitism had less chance of sticking to her. My guess is that Kornbluth will stay, and Stefanik will use the refusal to fire her as a reason to draw every possible negative inference from any kind of affiliation with MIT, up to and including the 'common cold.' And there's nothing a politician likes more than a worthy adversary who has a smaller bully pulpit. I guess what they'd like more is to get all their opponents out, but this result keeps Stefanik's name in the news longer. "
@@ -115,10 +123,9 @@ I then turned to Angus and said good-bye to him, then to the room. Angus nodded 
 
 As soon as the Bartender saw me, he motioned with an excited yet questioning look on his face toward the Bender fountain. I put my hand over the top of my cup, signalling I was through. He gave a respectful grin and gave a simple and immediately understandable handwave gesture that said, all at the same time, "thanks for your business, it was a pleasure to see you, and I hope to see you again soon." They must teach that in a class for bertenders somewhere...
 
-<figure>
 <img src="/images/bender.jpg" width="150" alt="Bender, the biggest, strongest, cheapest drink">
- <figcaption>Bender, the biggest, strongest, cheapest drink</figcaption>
-</figure>
 
 
 
+
+<!-- last edited 4 January 2024 -->
