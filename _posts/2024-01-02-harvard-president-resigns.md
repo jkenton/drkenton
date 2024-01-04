@@ -72,13 +72,21 @@ Yet, there are many folks who see Israel as a proxy for every Jewish person, and
 I must admit, I was waiting for some enlightened response from Al and/or Birk, to explain why two institutions would toss their carefully selected Presidents under the bus very quickly, while another was more resistant.
 
 
-Al didn't hesitate. "The politician Stefanik got what she wanted. She asked a tough question about how she framed anti-semitism on a college campus. It was like the Boston lawyer that eventually ended Joe McCarthy's anti-communist reign in the 1950s, by asking 'Have you no sense of decency?' Even though all three Presidents essentially answered the same way, only MIT jumped to support its President while the others pushed their respective Presidents under the first bus available. Stefanik is making the best advantage that she can about the situation. Kornbluth is Jewish, so the stain of potential anti-semitism had less chance of sticking to her. My guess is that Kornbluth will stay, and Stefanik will use the refusal to fire her as a reason to draw every possible negative inference from any kind of affiliation with MIT. Up to and including the 'common cold.' And there's nothing a politician likes more than a worthy adversary who has a smaller bull pulpit. I guess what they'd like more is to get all their opponents out, but this result keeps Stefanik's name in the news longer. "
+Al didn't hesitate. "The politician Stefanik got almost exactly what she wanted. She asked a tough question about how she framed anti-semitism on a college campus. It was like the Boston lawyer that eventually ended Joe McCarthy's anti-communist reign in the 1950s, by asking 'Have you no sense of decency?' Even though all three Presidents essentially answered the same way, only MIT jumped to support its President while the others pushed their respective Presidents under the first bus available. Stefanik is making the best advantage that she can about the situation. Besides, Kornbluth is Jewish, so the stain of potential anti-semitism had less chance of sticking to her. My guess is that Kornbluth will stay, and Stefanik will use the refusal to fire her as a reason to draw every possible negative inference from any kind of affiliation with MIT, up to and including the 'common cold.' And there's nothing a politician likes more than a worthy adversary who has a smaller bully pulpit. I guess what they'd like more is to get all their opponents out, but this result keeps Stefanik's name in the news longer. "
+
+<img src="/images/Algernon_Endicott.png" width="150" alt="Algernon Endicott, please call him 'Al'">
 
 "Isn't it a pain in the neck to find, recruit and hire a University President?" I followed up.
 
 Birk responded this time, "Well, no institution who has asked its President to resign has then later decided that they don't need one. I've served on a few of those searches in my career. The process is always very secretive, and the representative group of faculty members, staff members, and administrative staff is picked with especial care. And there's often an executive search agency that facilitates the whole thing. It's exciting and important work, and in almost every case, the process leads to a highly qualified candidate who is enough different from the prior President that the need for replacement is satisfied. But not SO different that the business side of the institution suffers."
 
-I raised the last remnants of my Bender to Al and Birk, and said "Thank you, sirs. Very interesting viewpoints, all!"
+<img src="/images/Birk.jpeg" width="150" alt="Birk">
+
+Al added, "Yes, it takes a long time to cultivate and develop the group of people who are willing to donate their money to the institution. And these relationships can become VERY strong in both positive and toxic ways. Positive in the sense that some folks want to improve the student experience on campus by donating money toward building or updating a campus building. In a toxic sense, a benefactor may identify some popular, necessary improvements and hang a lot of conditions on that gift. Things like removal of a department, or a major that they don't like. Those are very sensitive negotiations, to say the very least." 
+
+<img src="/images/Algernon_Endicott.png" width="150" alt="Algernon Endicott, please call him 'Al'">
+
+I raised the last remnants of my Bender to Al and Birk, and said "Thank you, sirs. Very interesting viewpoints, everyone!"
 
 I then turned to Angus and said good-bye to him, then to the room. Angus nodded and the rest of the room gave a variety of hand waves, head nods, and eye rolls, returning to their conversation. I grabbed my glass and returned to the bar area.
 
