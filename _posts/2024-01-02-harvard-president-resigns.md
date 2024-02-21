@@ -37,7 +37,7 @@ Without turning toward me - because he was paying close attention to the discuss
 "It's s a very complicated situation. I don’t think it is as much about her plagiarism as it is about the fact that she is black and a college President. I think, given her research interests and how they generally involve the treatment and mistreatment of disenfranchised persons, the assumption is she is liberal." Holding up three fingers, as he lists off the attributes he thinks are important: "Black. Female. Liberal."  
 
 <figure>
-<img src="/images/cristobal.jpeg" width="150" alt="Cristobal">
+<img src="/images/cristobal.jpeg" width="200" alt="Cristobal">
  <figcaption>Cristobal</figcaption>
 </figure>
 
