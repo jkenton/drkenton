@@ -13,7 +13,7 @@ comments: true
 The New Year had come and gone, and I had been away from the Aging Matador for too long. As I wandered in, the bartender got my attention. Then poured me a large Bender and set it down, before I even had a chance to speak. He could probably see it on me that I wanted one. Or maybe it was a prescription? One never knows about these things, and smart people don't ask too many questions about it.
 
 <figure>
-<img src="/images/bender.jpg" width="150" alt="Bender, the biggest, strongest, cheapest drink">
+<img src="/images/bender.jpeg" width="150" alt="Bender, the biggest, strongest, cheapest drink">
  <figcaption>Bender, the biggest, strongest, cheapest drink</figcaption>
 </figure>
 
