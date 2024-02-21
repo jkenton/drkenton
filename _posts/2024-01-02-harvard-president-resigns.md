@@ -6,7 +6,7 @@ comments: true
 ---
 
 <figure>
- <img src="/images/beers.jpg" alt="Beers at the Aging Matador">
+ <img src="/images/aging-matador.jpeg" alt="Beers at the Aging Matador">
  <figcaption>Beers at the Aging Matador</figcaption>
 </figure>
 
